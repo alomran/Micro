@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/02/28/subvert-the-status.html",
+				
+				"content_html": "<p>“Subvert the status quo. Own a website. <a href=\"https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/\">Make and share links</a>.”</p>\n",
+				"content_text": "“Subvert the status quo. Own a website. [Make and share links](https://blog.jim-nielsen.com/2024/the-subversive-hyperlink/).”\n",
+				"date_published": "2024-02-28T19:02:52+03:00",
+				"url": "https://blog.alomran.me/2024/02/28/subvert-the-status.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/02/21/when-i-worked.html",
+				
+				"content_html": "<p>When I worked for NPR my cubicle was near the music desk, and I was lucky to attend <a href=\"https://apnews.com/article/tiny-desk-concert-npr-64c4e1c29d81eb0be389aebc2591d92e\">Tiny Desk Concerts</a> by Wilco and the Cranberries, among others.</p>\n",
+				"content_text": "When I worked for NPR my cubicle was near the music desk, and I was lucky to attend [Tiny Desk Concerts](https://apnews.com/article/tiny-desk-concert-npr-64c4e1c29d81eb0be389aebc2591d92e) by Wilco and the Cranberries, among others.\n",
+				"date_published": "2024-02-21T21:14:03+03:00",
+				"url": "https://blog.alomran.me/2024/02/21/when-i-worked.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/02/21/mls-club-dc.html",
 				
 				"content_html": "<p>MLS club DC United had <a href=\"https://www.washingtonpost.com/sports/2024/02/20/dc-united-supporters-protest-saudi-arabia/\">all expenses paid</a> and received appearance fees for four friendlies during a 17-day per-season camp in Saudi Arabia.</p>\n",
