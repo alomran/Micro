@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/06/11/its-time-we.html",
+				
+				"content_html": "<p>It’s time we added <a href=\"https://lithub.com/its-time-we-added-full-credit-pages-to-books/\">full credit pages to books</a> like we do for films.</p>\n",
+				"content_text": "It’s time we added [full credit pages to books](https://lithub.com/its-time-we-added-full-credit-pages-to-books/) like we do for films.\n",
+				"date_published": "2024-06-11T12:38:09+03:00",
+				"url": "https://blog.alomran.me/2024/06/11/its-time-we.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/06/06/saudi-arabia-is.html",
 				
 				"content_html": "<p>Saudi Arabia is <a href=\"https://agsiw.org/if-you-build-it-they-will-come-prospects-for-foreign-direct-investment-in-saudi-arabia/\">seeking a larger share of a shrinking pie</a> at a time when many other countries are also seeking increased FDI to meet their development needs.</p>\n",
