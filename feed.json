@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/07/19/my-latest-story.html",
+				
+				"content_html": "<p>My latest story: <a href=\"https://www.ft.com/content/dd046a54-2ffa-43ab-9af4-0ea52235cc6d\">Saudi Arabia lures foreign filmmakers</a> with beautiful landscapes, modern studios and financial incentives. But some in Hollywood are still reluctant to come to the kingdom.</p>\n",
+				"content_text": "My latest story: [Saudi Arabia lures foreign filmmakers](https://www.ft.com/content/dd046a54-2ffa-43ab-9af4-0ea52235cc6d) with beautiful landscapes, modern studios and financial incentives. But some in Hollywood are still reluctant to come to the kingdom.\n",
+				"date_published": "2024-07-19T09:54:13+03:00",
+				"url": "https://blog.alomran.me/2024/07/19/my-latest-story.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/07/07/you-are-not.html",
+				
+				"content_html": "<p>“You are not creative and then create something, you become creative by working on something, <a href=\"https://christophrauscher.de/writing/posts/the-muse-visits-during-the-act-of-creation/\">creativity is a byproduct of work</a>.”</p>\n",
+				"content_text": "“You are not creative and then create something, you become creative by working on something, [creativity is a byproduct of work](https://christophrauscher.de/writing/posts/the-muse-visits-during-the-act-of-creation/).”\n",
+				"date_published": "2024-07-07T14:02:48+03:00",
+				"url": "https://blog.alomran.me/2024/07/07/you-are-not.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/07/07/my-latest-how.html",
 				
 				"content_html": "<p>My latest: How Saudi-owned <a href=\"https://www.ft.com/content/c20b3bbc-b3a7-46c0-91ea-88e60501d922\">MBC is outplaying Netflix</a> to dominate the Middle East streaming market.</p>\n",
