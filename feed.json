@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/09/06/roads-are-barren.html",
+				
+				"content_html": "<p>“Roads are barren, <a href=\"https://www.hamiltonnolan.com/p/cars-have-fucked-up-this-country\">inhospitable landscapes</a> whose only redeeming value is allowing us to reach somewhere much more pleasant than the road itself. When roads come to dominate the non-road area of a city, you have, by definition, built too much road.”</p>\n",
+				"content_text": "“Roads are barren, [inhospitable landscapes](https://www.hamiltonnolan.com/p/cars-have-fucked-up-this-country) whose only redeeming value is allowing us to reach somewhere much more pleasant than the road itself. When roads come to dominate the non-road area of a city, you have, by definition, built too much road.”\n",
+				"date_published": "2024-09-06T12:29:33+03:00",
+				"url": "https://blog.alomran.me/2024/09/06/roads-are-barren.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/08/25/weekend-in-albaha.html",
+				
+				"content_html": "<p>Weekend in al-Baha, southwest Saudi Arabia.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Weekend in al-Baha, southwest Saudi Arabia.\n\n<img src=\"uploads/2024/8fd429f161.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/5fe57bc9c4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/05a70d7385.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/9f2925f573.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-25T11:55:59+03:00",
+				"url": "https://blog.alomran.me/2024/08/25/weekend-in-albaha.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/08/20/as-saudi-arabia.html",
+				
+				"content_html": "<p>As Saudi Arabia reassesses its priorities and the PIF shifts focus to huge domestic commitments, the era of the kingdom being perceived as a <a href=\"https://www.ft.com/content/e22b512e-f5c0-43d8-86ce-a9e014aa4e55\">source of easy money</a> is coming to an end.</p>\n",
+				"content_text": "As Saudi Arabia reassesses its priorities and the PIF shifts focus to huge domestic commitments, the era of the kingdom being perceived as a [source of easy money](https://www.ft.com/content/e22b512e-f5c0-43d8-86ce-a9e014aa4e55) is coming to an end.\r\n",
+				"date_published": "2024-08-20T11:22:50+03:00",
+				"url": "https://blog.alomran.me/2024/08/20/as-saudi-arabia.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/08/18/saudi-public-health.html",
+				
+				"content_html": "<p>Saudi Public Health Authority says <a href=\"https://www.spa.gov.sa/N2156179\">no cases of mpox detected in the kingdom</a>, urges citizens to avoid travel to countries where outbreaks have been reported.</p>\n",
+				"content_text": "Saudi Public Health Authority says [no cases of mpox detected in the kingdom](https://www.spa.gov.sa/N2156179), urges citizens to avoid travel to countries where outbreaks have been reported.\n",
+				"date_published": "2024-08-18T07:53:06+03:00",
+				"url": "https://blog.alomran.me/2024/08/18/saudi-public-health.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/08/16/russian-fuel-oil.html",
 				
 				"content_html": "<p>Russian fuel oil exports to Saudi Arabia <a href=\"https://www.reuters.com/business/energy/china-saudi-arabia-top-buyers-russian-fuel-oil-july-lseg-data-shows-2024-08-16/\">doubled between June and July</a> to power generation plants during the hot summer season as demand for air conditioning hits its peak.</p>\n",
