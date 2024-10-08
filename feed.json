@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/10/08/dave-winer-one.html",
+				
+				"content_html": "<p>Dave Winer, one of the people who inspired me to blog, <a href=\"http://scripting.com/2024/10/07.html\">celebrates 30 years of blogging</a> today: “Every time you post something you’re proud of on a social media site, how about taking a moment and posting it to your blog too.”</p>\n",
+				"content_text": "Dave Winer, one of the people who inspired me to blog, [celebrates 30 years of blogging](http://scripting.com/2024/10/07.html) today: “Every time you post something you’re proud of on a social media site, how about taking a moment and posting it to your blog too.”\n",
+				"date_published": "2024-10-08T18:24:01+03:00",
+				"url": "https://blog.alomran.me/2024/10/08/dave-winer-one.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/10/06/my-latest-saudi.html",
+				
+				"content_html": "<p>My latest: Saudi billionaire Prince Alwaleed bin Talal resumes work on the <a href=\"https://www.ft.com/content/e8f3a8d8-47ca-400d-8c9e-9b4928ef7c0d\">Jeddah Tower project</a>, which is set to surpass Dubai’s Burj Khalifa as the world’s tallest building when completed in 2028</p>\n",
+				"content_text": "My latest: Saudi billionaire Prince Alwaleed bin Talal resumes work on the [Jeddah Tower project](https://www.ft.com/content/e8f3a8d8-47ca-400d-8c9e-9b4928ef7c0d), which is set to surpass Dubai’s Burj Khalifa as the world’s tallest building when completed in 2028\r\n",
+				"date_published": "2024-10-06T10:16:07+03:00",
+				"url": "https://blog.alomran.me/2024/10/06/my-latest-saudi.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/10/03/saudi-ambassador-to.html",
 				
 				"content_html": "<p>Saudi ambassador to the UK: “As the government in Israel seems further away than ever from understanding this key fact, as demonstrated by its behaviour in Gaza and elsewhere, it’s clear that normalisation of the kingdom’s relationship with Israel is <a href=\"https://www.theguardian.com/world/2024/oct/02/normalisation-of-saudi-arabia-israel-relations-depends-on-two-state-solution\">currently not possible</a>.”</p>\n",
