@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/10/15/kaust-president-pledges.html",
+				
+				"content_html": "<p>KAUST president pledges to <a href=\"https://www.ft.com/content/1652e551-dac7-40a5-9621-7453d13af613\">stop any AI collaboration with China</a> that could jeopardise the Saudi university’s access to US-made chips.</p>\n",
+				"content_text": "KAUST president pledges to [stop any AI collaboration with China](https://www.ft.com/content/1652e551-dac7-40a5-9621-7453d13af613) that could jeopardise the Saudi university’s access to US-made chips.\n",
+				"date_published": "2024-10-15T11:31:08+03:00",
+				"url": "https://blog.alomran.me/2024/10/15/kaust-president-pledges.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/10/12/there-is-no.html",
+				
+				"content_html": "<p>“There is no love lost between Hizbollah and Saudi, but Lebanon is a sovereign state and this is a <a href=\"https://www.ft.com/content/100faf07-ffe1-4f93-b27c-c832f8278f92\">very dangerous precedent</a> that the Israelis are setting. They are making it complicated for everybody,” a Saudi official said.</p>\n",
+				"content_text": "“There is no love lost between Hizbollah and Saudi, but Lebanon is a sovereign state and this is a [very dangerous precedent](https://www.ft.com/content/100faf07-ffe1-4f93-b27c-c832f8278f92) that the Israelis are setting. They are making it complicated for everybody,” a Saudi official said.\n",
+				"date_published": "2024-10-12T12:24:16+03:00",
+				"url": "https://blog.alomran.me/2024/10/12/there-is-no.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/10/08/dave-winer-one.html",
 				
 				"content_html": "<p>Dave Winer, one of the people who inspired me to blog, <a href=\"http://scripting.com/2024/10/07.html\">celebrates 30 years of blogging</a> today: “Every time you post something you’re proud of on a social media site, how about taking a moment and posting it to your blog too.”</p>\n",
