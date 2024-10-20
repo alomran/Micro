@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/10/20/my-latest-saudi.html",
+				
+				"content_html": "<p>My latest: Saudi regulator to <a href=\"https://www.ft.com/content/789f6be7-fd6d-4d82-94b8-44bbdfe8e9b7\">investigate media giant MBC</a> over report calling Sinwar a “new face of terrorism” as Iraq moves to suspend the channel’s licence after protesters attacked its offices in Baghdad.</p>\n",
+				"content_text": "My latest: Saudi regulator to [investigate media giant MBC](https://www.ft.com/content/789f6be7-fd6d-4d82-94b8-44bbdfe8e9b7) over report calling Sinwar a “new face of terrorism” as Iraq moves to suspend the channel’s licence after protesters attacked its offices in Baghdad.\r\n",
+				"date_published": "2024-10-20T17:47:43+03:00",
+				"url": "https://blog.alomran.me/2024/10/20/my-latest-saudi.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/10/17/cory-doctorow-you.html",
+				
+				"content_html": "<p><a href=\"https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise\">Cory Doctorow</a>: “You can single-handedly disenshittify your experience of virtually the entire web, just by switching to RSS&hellip;”</p>\n",
+				"content_text": "[Cory Doctorow](https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise): “You can single-handedly disenshittify your experience of virtually the entire web, just by switching to RSS...”\n",
+				"date_published": "2024-10-17T20:15:31+03:00",
+				"url": "https://blog.alomran.me/2024/10/17/cory-doctorow-you.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/10/17/obituary-of-pioneering.html",
+				
+				"content_html": "<p><a href=\"https://www.telegraph.co.uk/obituaries/2024/10/17/safeya-binzagr-successful-female-saudi-artist-died-obituary/\">Obituary</a> of pioneering Saudi female artist Safeya Binzagr.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Obituary](https://www.telegraph.co.uk/obituaries/2024/10/17/safeya-binzagr-successful-female-saudi-artist-died-obituary/) of pioneering Saudi female artist Safeya Binzagr.\n\n<img src=\"uploads/2024/hp-zaboon.jpg\" width=\"600\" height=\"491\" alt=\"\">\n",
+				"date_published": "2024-10-17T11:31:35+03:00",
+				"url": "https://blog.alomran.me/2024/10/17/obituary-of-pioneering.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/10/16/our-big-read.html",
+				
+				"content_html": "<p>Our big read on the Saudi economy: After eight years of whirlwind construction activity and unprecedented spending, the <a href=\"https://www.ft.com/content/b50b2763-3435-42f9-8025-8c70ed776957#comments-anchor\">kingdom’s new watchword is prudence</a>.</p>\n",
+				"content_text": "Our big read on the Saudi economy: After eight years of whirlwind construction activity and unprecedented spending, the [kingdom’s new watchword is prudence](https://www.ft.com/content/b50b2763-3435-42f9-8025-8c70ed776957#comments-anchor).\n",
+				"date_published": "2024-10-16T09:56:54+03:00",
+				"url": "https://blog.alomran.me/2024/10/16/our-big-read.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/10/15/with-a-web.html",
+				
+				"content_html": "<p>“With a web flooded with AI generated slop and the platforms themselves encouraging it, the <a href=\"https://manuelmoreale.com/creation-and-curation\">role of curators</a> is gonna become more and more important. Who knows, maybe with a digital world filled with low-quality garbage we’ll find refuge in old-school printed magazines.”</p>\n",
+				"content_text": "“With a web flooded with AI generated slop and the platforms themselves encouraging it, the [role of curators](https://manuelmoreale.com/creation-and-curation) is gonna become more and more important. Who knows, maybe with a digital world filled with low-quality garbage we’ll find refuge in old-school printed magazines.”\n",
+				"date_published": "2024-10-15T15:23:32+03:00",
+				"url": "https://blog.alomran.me/2024/10/15/with-a-web.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/10/15/kaust-president-pledges.html",
 				
 				"content_html": "<p>KAUST president pledges to <a href=\"https://www.ft.com/content/1652e551-dac7-40a5-9621-7453d13af613\">stop any AI collaboration with China</a> that could jeopardise the Saudi university’s access to US-made chips.</p>\n",
