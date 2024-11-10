@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/11/10/two-saudi-officers.html",
+				
+				"content_html": "<p>Two Saudi officers killed and one wounded in <a href=\"https://www.ft.com/content/33c70efd-dcdc-440c-9a2c-cc1c654fff70\">“lone wolf” attack</a> at training camp for Yemeni government forces in Hadhramaut.</p>\n",
+				"content_text": "Two Saudi officers killed and one wounded in [“lone wolf” attack](https://www.ft.com/content/33c70efd-dcdc-440c-9a2c-cc1c654fff70) at training camp for Yemeni government forces in Hadhramaut.\n",
+				"date_published": "2024-11-10T18:03:42+03:00",
+				"url": "https://blog.alomran.me/2024/11/10/two-saudi-officers.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/11/06/in-the-end.html",
+				
+				"content_html": "<p>“In the end, Trump’s inflammatory rhetoric about invading immigrant hordes, his macho posturing against a female opponent, and his promise to boost an inflation-battered U.S. economy simply <a href=\"https://www.newyorker.com/news/the-lede/donald-trump-wins-a-second-term\">resonated more than all the lectures about his many deficiencies</a> as a person and a would-be President.”</p>\n",
+				"content_text": "“In the end, Trump’s inflammatory rhetoric about invading immigrant hordes, his macho posturing against a female opponent, and his promise to boost an inflation-battered U.S. economy simply [resonated more than all the lectures about his many deficiencies](https://www.newyorker.com/news/the-lede/donald-trump-wins-a-second-term) as a person and a would-be President.”\n",
+				"date_published": "2024-11-06T22:26:10+03:00",
+				"url": "https://blog.alomran.me/2024/11/06/in-the-end.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/11/06/american-strongman-returns.html",
+				
+				"content_html": "<p>American Strongman Returns to Power As Divided Nation Ponders Future</p>\n",
+				"content_text": "American Strongman Returns to Power As Divided Nation Ponders Future\n",
+				"date_published": "2024-11-06T21:09:45+03:00",
+				"url": "https://blog.alomran.me/2024/11/06/american-strongman-returns.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/11/03/cory-doctorow-to.html",
+				
+				"content_html": "<p><a href=\"https://pluralistic.net/2024/11/02/ulysses-pact/#tie-yourself-to-a-federated-mast\">Cory Doctorow</a>: “&hellip;to resist enshittification, you have to impose switching costs <em>on yourself</em>.”</p>\n",
+				"content_text": "[Cory Doctorow](https://pluralistic.net/2024/11/02/ulysses-pact/#tie-yourself-to-a-federated-mast): “...to resist enshittification, you have to impose switching costs _on yourself_.”\r\n",
+				"date_published": "2024-11-03T11:00:36+03:00",
+				"url": "https://blog.alomran.me/2024/11/03/cory-doctorow-to.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/11/03/my-story-from.html",
+				
+				"content_html": "<p>My story from last week’s Saudi investment conference: the <a href=\"https://www.ft.com/content/5004fbc6-23e2-4b9f-9885-14e1ea724ce2\">PIF plans to further scale back the share of its international investment</a>, drawing a line under a multibillion-dollar global spending spree as it refocuses on the domestic economy.</p>\n",
+				"content_text": "My story from last week’s Saudi investment conference: the [PIF plans to further scale back the share of its international investment](https://www.ft.com/content/5004fbc6-23e2-4b9f-9885-14e1ea724ce2), drawing a line under a multibillion-dollar global spending spree as it refocuses on the domestic economy.\n",
+				"date_published": "2024-11-03T09:11:00+03:00",
+				"url": "https://blog.alomran.me/2024/11/03/my-story-from.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/11/03/elon-musk-is.html",
 				
-				"content_html": "<p>Elon Musk is in <a href=\"https://www.ft.com/content/ed5450fe-c529-43e2-a46b-115860ab32c2\">early talks with Saudi Arabia and Qatar</a> about baking xAI, could roughly double the company’s valuation to $45 billion.</p>\n",
-				"content_text": "Elon Musk is in [early talks with Saudi Arabia and Qatar](https://www.ft.com/content/ed5450fe-c529-43e2-a46b-115860ab32c2) about baking xAI, could roughly double the company’s valuation to $45 billion.\n",
+				"content_html": "<p>Elon Musk is in <a href=\"https://www.ft.com/content/ed5450fe-c529-43e2-a46b-115860ab32c2\">early talks with Saudi Arabia and Qatar</a> about backing xAI, could roughly double the company’s valuation to $45 billion.</p>\n",
+				"content_text": "Elon Musk is in [early talks with Saudi Arabia and Qatar](https://www.ft.com/content/ed5450fe-c529-43e2-a46b-115860ab32c2) about backing xAI, could roughly double the company’s valuation to $45 billion.\n",
 				"date_published": "2024-11-03T09:05:31+03:00",
 				"url": "https://blog.alomran.me/2024/11/03/elon-musk-is.html"
 			},
@@ -605,6 +645,1158 @@
 				"content_text": "Saudi media giant [MBC will go public](https://www.mbc.net/ipo), listing 10% of its shares on Tadawul after the IPO plan was approved by the CMA. The government owns 60% of the company.\n",
 				"date_published": "2023-11-22T14:22:50+03:00",
 				"url": "https://blog.alomran.me/2023/11/22/saudi-media-giant.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/17/signal-is-essential.html",
+				
+				"content_html": "<p>Signal is essential, but keeping the E2E encrypted messaging app up and running is expensive: the <a href=\"https://signal.org/blog/signal-is-expensive/\">non-profit spends nearly $33 annually</a>, with cost expected to rise to $50 by 2025.</p>\n",
+				"content_text": "Signal is essential, but keeping the E2E encrypted messaging app up and running is expensive: the [non-profit spends nearly $33 annually](https://signal.org/blog/signal-is-expensive/), with cost expected to rise to $50 by 2025.\n",
+				"date_published": "2023-11-17T16:06:08+03:00",
+				"url": "https://blog.alomran.me/2023/11/17/signal-is-essential.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/07/iranian-president-ebrahim.html",
+				
+				"content_html": "<p>Iranian President Ebrahim Raisi is expected to travel to Riyadh this Sunday for an extraordinary Islamic leaders summit to discuss the Gaza crisis. This would be his <a href=\"https://www.france24.com/en/middle-east/20231106-iranian-president-raisi-to-attend-gaza-summit-in-saudi-arabia\">first visit to Saudi Arabia</a> since the two countries agreed to restore diplomatic relations.</p>\n",
+				"content_text": "Iranian President Ebrahim Raisi is expected to travel to Riyadh this Sunday for an extraordinary Islamic leaders summit to discuss the Gaza crisis. This would be his [first visit to Saudi Arabia](https://www.france24.com/en/middle-east/20231106-iranian-president-raisi-to-attend-gaza-summit-in-saudi-arabia) since the two countries agreed to restore diplomatic relations.\n",
+				"date_published": "2023-11-07T13:01:52+03:00",
+				"url": "https://blog.alomran.me/2023/11/07/iranian-president-ebrahim.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/05/halfway-to-vision.html",
+				
+				"content_html": "<p>Half-way to Vision 2030: PwC <a href=\"https://www.pwc.com/m1/en/publications/saudi-economy-watch.html\">report card</a> on Saudi Arabia’s progress towards key reform goals.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Half-way to Vision 2030: PwC [report card](https://www.pwc.com/m1/en/publications/saudi-economy-watch.html) on Saudi Arabia’s progress towards key reform goals.\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2023/scr-20231105-mjjn.png\" width=\"600\" height=\"374\" alt=\"\">\n",
+				"date_published": "2023-11-05T18:50:17+03:00",
+				"url": "https://blog.alomran.me/2023/11/05/halfway-to-vision.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/04/take-a-closer.html",
+				
+				"content_html": "<p>Take a closer look at the Saudi Pro League’s attendance numbers and a pattern emerges: fans in provincial cities <a href=\"https://www.thenationalnews.com/sport/football/2023/10/31/gap-between-attendances-at-saudi-pro-league-clubs-continues-to-grow/\">do not identify with their domestic club</a>, but instead choose to support the Big Four teams now funded by the PIF.</p>\n",
+				"content_text": "Take a closer look at the Saudi Pro League’s attendance numbers and a pattern emerges: fans in provincial cities [do not identify with their domestic club](https://www.thenationalnews.com/sport/football/2023/10/31/gap-between-attendances-at-saudi-pro-league-clubs-continues-to-grow/), but instead choose to support the Big Four teams now funded by the PIF.\n",
+				"date_published": "2023-11-04T15:08:10+03:00",
+				"url": "https://blog.alomran.me/2023/11/04/take-a-closer.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/04/spent-some-time.html",
+				
+				"content_html": "<p>Spent some time this morning reading Caryle Murphy’s Pulitzer-winning <a href=\"https://www.pulitzer.org/winners/caryle-murphy\">dispatches from Kuwait</a> at the start of the Iraqi invasion in 1990. For the first month of the war, she was the only American newspaper reporter in the country until she managed to escape to Saudi Arabia.</p>\n",
+				"content_text": "Spent some time this morning reading Caryle Murphy’s Pulitzer-winning [dispatches from Kuwait](https://www.pulitzer.org/winners/caryle-murphy) at the start of the Iraqi invasion in 1990. For the first month of the war, she was the only American newspaper reporter in the country until she managed to escape to Saudi Arabia.\n",
+				"date_published": "2023-11-04T14:02:51+03:00",
+				"url": "https://blog.alomran.me/2023/11/04/spent-some-time.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/03/the-asian-football.html",
+				
+				"content_html": "<p>The Asian Football Confederation rules that Iran’s Sepahan forfeited their game against Saudi side al-Ittihad in the AFC Champions League after keeping statues of Qassim Soliemani in the ground. The club <a href=\"https://assets.the-afc.com/downloads/disciplinary-matters/List-of-the-AFC-DEC-decisions-1-November-2023.pdf\">ordered to pay a $200,000 fine</a> and banned from playing their next 3 home games in Isfahan.</p>\n",
+				"content_text": "The Asian Football Confederation rules that Iran’s Sepahan forfeited their game against Saudi side al-Ittihad in the AFC Champions League after keeping statues of Qassim Soliemani in the ground. The club [ordered to pay a $200,000 fine](https://assets.the-afc.com/downloads/disciplinary-matters/List-of-the-AFC-DEC-decisions-1-November-2023.pdf) and banned from playing their next 3 home games in Isfahan.\n",
+				"date_published": "2023-11-03T18:40:23+03:00",
+				"url": "https://blog.alomran.me/2023/11/03/the-asian-football.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/03/dubaibased-television-network.html",
+				
+				"content_html": "<p>Dubai-based television network OSN, which exclusively owns MidEast rights for HBO programming, <a href=\"https://apnews.com/article/saudi-arabia-jamal-khashoggi-osn-last-week-tonight-9ad7a49468c992d291c872608d79e215\">edits a segment from John Oliver’s show</a> about McKinsey including their work for Saudi Arabia.</p>\n",
+				"content_text": "Dubai-based television network OSN, which exclusively owns MidEast rights for HBO programming, [edits a segment from John Oliver’s show](https://apnews.com/article/saudi-arabia-jamal-khashoggi-osn-last-week-tonight-9ad7a49468c992d291c872608d79e215) about McKinsey including their work for Saudi Arabia.\n",
+				"date_published": "2023-11-03T12:27:35+03:00",
+				"url": "https://blog.alomran.me/2023/11/03/dubaibased-television-network.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/11/02/saudi-arabia-launches.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.nytimes.com/2023/11/02/world/middleeast/saudi-arabia-gaza-aid-fundraiser.html\">launches national donation campaign for Gaza</a> after three weeks into the conflict. Meanwhile, a British Muslim actor who wore a <em>keffiyeh</em> while visiting Mecca in said authorities there had briefly detained him, interrogated him and confiscated the scarf.</p>\n",
+				"content_text": "Saudi Arabia [launches national donation campaign for Gaza](https://www.nytimes.com/2023/11/02/world/middleeast/saudi-arabia-gaza-aid-fundraiser.html) after three weeks into the conflict. Meanwhile, a British Muslim actor who wore a _keffiyeh_ while visiting Mecca in said authorities there had briefly detained him, interrogated him and confiscated the scarf.\n",
+				"date_published": "2023-11-02T20:49:19+03:00",
+				"url": "https://blog.alomran.me/2023/11/02/saudi-arabia-launches.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/10/31/fifa-chief-gianni.html",
+				
+				"content_html": "<p>FIFA chief Gianni Infantino <a href=\"https://www.instagram.com/p/CzErr6Uo1QJ/\">confirms on Instagram</a> that Saudi Arabia will host the 2034 World Cup after what he described as “constructive dialogue and extensive consultation.”</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "FIFA chief Gianni Infantino [confirms on Instagram](https://www.instagram.com/p/CzErr6Uo1QJ/) that Saudi Arabia will host the 2034 World Cup after what he described as “constructive dialogue and extensive consultation.”\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2023/scr-20231031-tppk.png\" width=\"600\" height=\"393\" alt=\"\">\n",
+				"date_published": "2023-10-31T22:53:06+03:00",
+				"url": "https://blog.alomran.me/2023/10/31/fifa-chief-gianni.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/10/31/australia-will-not.html",
+				
+				"content_html": "<p>Australia <a href=\"https://www.theguardian.com/football/2023/oct/31/australia-2034-fifa-world-cup-no-bid-declines-football-australia\">will not bid</a> for the 2034 World Cup, <strong>clearing the way for Saudi Arabia</strong> to host the tournament.</p>\n",
+				"content_text": "Australia [will not bid](https://www.theguardian.com/football/2023/oct/31/australia-2034-fifa-world-cup-no-bid-declines-football-australia) for the 2034 World Cup, **clearing the way for Saudi Arabia** to host the tournament.\n",
+				"date_published": "2023-10-31T12:15:02+03:00",
+				"url": "https://blog.alomran.me/2023/10/31/australia-will-not.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/10/30/as-an-american.html",
+				
+				"content_html": "<p>“As an American Jew, you’re <a href=\"https://thehill.com/policy/international/4282288-kushner-american-jews-are-safer-in-saudi-arabia-than-on-a-college-campus/\">safer in Saudi Arabia right now</a> than you are on a college campus like Columbia University,” Jared Kushner says.</p>\n",
+				"content_text": "“As an American Jew, you’re [safer in Saudi Arabia right now](https://thehill.com/policy/international/4282288-kushner-american-jews-are-safer-in-saudi-arabia-than-on-a-college-campus/) than you are on a college campus like Columbia University,” Jared Kushner says.\n",
+				"date_published": "2023-10-30T10:21:37+03:00",
+				"url": "https://blog.alomran.me/2023/10/30/as-an-american.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/10/27/saudi-officials-have.html",
+				
+				"content_html": "<p>Saudi officials have firmly <a href=\"https://www.nytimes.com/2023/10/27/world/middleeast/saudi-arabia-israel-us-invasion.html\">warned the US</a> in recent days that an Israeli ground incursion into Gaza could be catastrophic.</p>\n",
+				"content_text": "Saudi officials have firmly [warned the US](https://www.nytimes.com/2023/10/27/world/middleeast/saudi-arabia-israel-us-invasion.html) in recent days that an Israeli ground incursion into Gaza could be catastrophic.\n",
+				"date_published": "2023-10-27T19:47:27+03:00",
+				"url": "https://blog.alomran.me/2023/10/27/saudi-officials-have.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/10/26/saudi-arabia-says.html",
+				
+				"content_html": "<p>Saudi Arabia says the <a href=\"https://www.nytimes.com/2023/10/26/world/middleeast/saudi-arabia-israel-hamas-gaza-war.html\">show must go on</a> even as the region reels from the war in Gaza.</p>\n",
+				"content_text": "Saudi Arabia says the [show must go on](https://www.nytimes.com/2023/10/26/world/middleeast/saudi-arabia-israel-hamas-gaza-war.html) even as the region reels from the war in Gaza.\n",
+				"date_published": "2023-10-26T23:02:29+03:00",
+				"url": "https://blog.alomran.me/2023/10/26/saudi-arabia-says.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/10/04/saudi-arabia-confirms.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.spa.gov.sa/en/26bc4f2beau\">confirms</a> intention to bid for the 2034 World Cup.</p>\n",
+				"content_text": "Saudi Arabia [confirms](https://www.spa.gov.sa/en/26bc4f2beau) intention to bid for the 2034 World Cup.\n",
+				"date_published": "2023-10-04T21:20:31+03:00",
+				"url": "https://blog.alomran.me/2023/10/04/saudi-arabia-confirms.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/09/28/saudi-oil-revenues.html",
+				
+				"content_html": "<p>Saudi oil revenues this quarter are likely <a href=\"https://www.wsj.com/business/energy-oil/saudi-arabia-and-russia-win-big-in-gamble-on-oil-cuts-9a1834c6\">up by nearly $30 million a day</a> compared with April-June, an increase of about 5.7%. For the whole three-month period, that would equate to about $2.6 billion.</p>\n",
+				"content_text": "Saudi oil revenues this quarter are likely [up by nearly $30 million a day](https://www.wsj.com/business/energy-oil/saudi-arabia-and-russia-win-big-in-gamble-on-oil-cuts-9a1834c6) compared with April-June, an increase of about 5.7%. For the whole three-month period, that would equate to about $2.6 billion.\n",
+				"date_published": "2023-09-28T12:28:11+03:00",
+				"url": "https://blog.alomran.me/2023/09/28/saudi-oil-revenues.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/09/20/over-the-past.html",
+				
+				"content_html": "<p>Over the past 18 months, aggrieved former players filed 21 complaints to FIFA about contractual disputes with Saudi clubs. FIFA <a href=\"https://theathletic.com/4866378/2023/09/20/saudi-pro-league-clubs-ordered-to-pay-16m-to-aggrieved-players-in-last-year/\">ruled in favor of the player involved</a> in each one of them. Total ordered to be paid out to players tops $16 million.</p>\n",
+				"content_text": "Over the past 18 months, aggrieved former players filed 21 complaints to FIFA about contractual disputes with Saudi clubs. FIFA [ruled in favor of the player involved](https://theathletic.com/4866378/2023/09/20/saudi-pro-league-clubs-ordered-to-pay-16m-to-aggrieved-players-in-last-year/) in each one of them. Total ordered to be paid out to players tops $16 million.\n",
+				"date_published": "2023-09-20T20:16:01+03:00",
+				"url": "https://blog.alomran.me/2023/09/20/over-the-past.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/09/13/kuwait-orders-all.html",
+				
+				"content_html": "<p>Kuwait orders all restaurants and cafés in the country to <a href=\"https://www.alqabas.com/article/5920014-%D8%A5%D9%84%D8%B2%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%87%D9%8A-%D8%A8%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D9%84%D8%AA%D8%B1-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A\">offer customers free filtered tap water</a> and not force them to buy bottled water. Rest of GCC should do this or at least give customers a choice between local and imported bottled water brands.</p>\n",
+				"content_text": "Kuwait orders all restaurants and cafés in the country to [offer customers free filtered tap water](https://www.alqabas.com/article/5920014-إلزام-المطاعم-والمقاهي-بتوفير-ماء-الدولة-المفلتر-المجاني) and not force them to buy bottled water. Rest of GCC should do this or at least give customers a choice between local and imported bottled water brands.\n",
+				"date_published": "2023-09-13T14:48:33+03:00",
+				"url": "https://blog.alomran.me/2023/09/13/kuwait-orders-all.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/09/08/million-saudi-pro.html",
+				
+				"content_html": "<p>$957 million &lt;&ndash; Saudi Pro League’s spending on players this summer, second highest in the world behind only the English Premier League’s $1.39 billion 🇸🇦💵 (Deloitte)</p>\n",
+				"content_text": "$957 million <-- Saudi Pro League’s spending on players this summer, second highest in the world behind only the English Premier League’s $1.39 billion 🇸🇦💵 (Deloitte)\n",
+				"date_published": "2023-09-08T16:55:40+03:00",
+				"url": "https://blog.alomran.me/2023/09/08/million-saudi-pro.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/08/23/revenue-from-pwcs.html",
+				
+				"content_html": "<p>Revenue from PwC’s Saudi consulting business <a href=\"https://www.ft.com/content/9a1edbb4-8982-4a07-86ab-b9e5e262fbf1\">rose by about 40%</a> to nearly £1.5 billion, helping the firm’s UK partners avoid a significant drop in pay as rising costs dented profits.</p>\n",
+				"content_text": "Revenue from PwC’s Saudi consulting business [rose by about 40%](https://www.ft.com/content/9a1edbb4-8982-4a07-86ab-b9e5e262fbf1) to nearly £1.5 billion, helping the firm’s UK partners avoid a significant drop in pay as rising costs dented profits.\n",
+				"date_published": "2023-08-23T20:20:53+03:00",
+				"url": "https://blog.alomran.me/2023/08/23/revenue-from-pwcs.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/08/07/in-the-early.html",
+				
+				"content_html": "<p>“In the early days of social media, founders invited their friends. Who invited their friends. And on it went. The networks grew slowly, organically, and with a level of density that is under-appreciated.” <a href=\"http://www.zephoria.org/thoughts/archives/2023/07/19/dear-alt-twitter-designers-its-about-the-network.html\">—danah boyd</a></p>\n",
+				"content_text": "“In the early days of social media, founders invited their friends. Who invited their friends. And on it went. The networks grew slowly, organically, and with a level of density that is under-appreciated.” [—danah boyd](http://www.zephoria.org/thoughts/archives/2023/07/19/dear-alt-twitter-designers-its-about-the-network.html)\n",
+				"date_published": "2023-08-07T18:56:10+03:00",
+				"url": "https://blog.alomran.me/2023/08/07/in-the-early.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/08/06/saudi-arabias-sovereign.html",
+				
+				"content_html": "<p>Saudi Arabia’s sovereign wealth fund <a href=\"https://www.pif.gov.sa/en/Pages/NewsDetails.aspx?NewsId-254/PIF-Establishes-SRJ-Sports-Investments-Company-to-Elevate-Sports-Sector-in-Saudi-Arabia-and-MENA\">launches</a> SRJ, a company that will invest in acquiring and creating new sports events IP, commercial rights of popular sports competitions and hosting major global events in the kingdom.</p>\n",
+				"content_text": "Saudi Arabia’s sovereign wealth fund [launches](https://www.pif.gov.sa/en/Pages/NewsDetails.aspx?NewsId-254/PIF-Establishes-SRJ-Sports-Investments-Company-to-Elevate-Sports-Sector-in-Saudi-Arabia-and-MENA) SRJ, a company that will invest in acquiring and creating new sports events IP, commercial rights of popular sports competitions and hosting major global events in the kingdom.\n",
+				"date_published": "2023-08-06T17:39:11+03:00",
+				"url": "https://blog.alomran.me/2023/08/06/saudi-arabias-sovereign.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/07/29/saudi-arabia-is.html",
+				
+				"content_html": "<p>Saudi Arabia is set to <a href=\"https://www.wsj.com/articles/saudi-arabia-to-host-ukraine-peace-talks-as-part-of-western-effort-to-woo-global-south-244f03f0\">host Ukraine peace talks</a> next week in Jeddah as western powers seek to consolidate support from the global south. 30 countries expected to attend, but Russia is excluded.</p>\n",
+				"content_text": "Saudi Arabia is set to [host Ukraine peace talks](https://www.wsj.com/articles/saudi-arabia-to-host-ukraine-peace-talks-as-part-of-western-effort-to-woo-global-south-244f03f0) next week in Jeddah as western powers seek to consolidate support from the global south. 30 countries expected to attend, but Russia is excluded.\n",
+				"date_published": "2023-07-29T21:05:23+03:00",
+				"url": "https://blog.alomran.me/2023/07/29/saudi-arabia-is.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/07/26/imf-cut-its.html",
+				
+				"content_html": "<p>IMF cut its 2023 GDP growth projection for Saudi Arabia to 1.9% to <a href=\"https://www.reuters.com/world/middle-east/imf-cuts-saudi-arabias-2023-gdp-growth-forecast-19-2023-07-25/\">reflect</a> the impact of prolonged oil production cuts.</p>\n",
+				"content_text": "IMF cut its 2023 GDP growth projection for Saudi Arabia to 1.9% to [reflect](https://www.reuters.com/world/middle-east/imf-cuts-saudi-arabias-2023-gdp-growth-forecast-19-2023-07-25/) the impact of prolonged oil production cuts.\n",
+				"date_published": "2023-07-26T15:39:04+03:00",
+				"url": "https://blog.alomran.me/2023/07/26/imf-cut-its.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/07/20/the-saudi-government.html",
+				
+				"content_html": "<p>The Saudi government body in charge of running the Two Holy Mosques in Mecca and Medina update their logo:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Saudi government body in charge of running the Two Holy Mosques in Mecca and Medina update their logo:\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2023/prz-logo.001.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-07-20T14:59:47+03:00",
+				"url": "https://blog.alomran.me/2023/07/20/the-saudi-government.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/07/18/saudi-pro-league.html",
+				
+				"content_html": "<p>Saudi Pro League <a href=\"https://spl.sa/ar/news/4505?s=08\">announces</a> that former Chelsea executive Michael Emenalo will be in charge of the “Elite Players Recruitment” program in his new capacity as the league’s Director of Football.</p>\n",
+				"content_text": "Saudi Pro League [announces](https://spl.sa/ar/news/4505?s=08) that former Chelsea executive Michael Emenalo will be in charge of the “Elite Players Recruitment” program in his new capacity as the league’s Director of Football.\n",
+				"date_published": "2023-07-18T14:11:53+03:00",
+				"url": "https://blog.alomran.me/2023/07/18/saudi-pro-league.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/07/13/ios-feature-request.html",
+				
+				"content_html": "<p>iOS feature request: Time-limited notifications per app. For example, I want to get updates from the food delivery app for only one hour after I place an order so they don’t then use the permission to spam me with offers later. You can do that we location permissions, so why not notifications?</p>\n",
+				"content_text": "iOS feature request: Time-limited notifications per app. For example, I want to get updates from the food delivery app for only one hour after I place an order so they don’t then use the permission to spam me with offers later. You can do that we location permissions, so why not notifications?\n",
+				"date_published": "2023-07-13T13:21:10+03:00",
+				"url": "https://blog.alomran.me/2023/07/13/ios-feature-request.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/06/27/saudi-pro-league.html",
+				
+				"content_html": "<p>Saudi Pro League <a href=\"https://theathletic.com/4643603/2023/06/27/saudi-pro-league-tv-deal-transfers/\">hires</a> IMG to secure international broadcast deals for the next two years.</p>\n",
+				"content_text": "Saudi Pro League [hires](https://theathletic.com/4643603/2023/06/27/saudi-pro-league-tv-deal-transfers/) IMG to secure international broadcast deals for the next two years.\n",
+				"date_published": "2023-06-27T19:34:33+03:00",
+				"url": "https://blog.alomran.me/2023/06/27/saudi-pro-league.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/06/24/atp-tour-held.html",
+				
+				"content_html": "<p>ATP Tour held “positive” <a href=\"https://www.ft.com/content/4a85f095-13d3-49ef-bf57-e1fcfa17946b\">talks</a> with Saudi Arabia’s PIF about investing in men’s tennis.</p>\n",
+				"content_text": "ATP Tour held “positive” [talks](https://www.ft.com/content/4a85f095-13d3-49ef-bf57-e1fcfa17946b) with Saudi Arabia’s PIF about investing in men’s tennis.\n",
+				"date_published": "2023-06-24T22:21:06+03:00",
+				"url": "https://blog.alomran.me/2023/06/24/atp-tour-held.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/06/03/my-latest-story.html",
+				
+				"content_html": "<p>My latest story with Tariq Panja published in the <em>New York Times</em> today: the Saudi Pro League plans to <a href=\"https://www.nytimes.com/2023/06/02/sports/soccer/saudi-soccer-messi-benzema-ronaldo.html\">bring in more big names</a> after Cristiano Ronaldo using a new centralized approach backed by a massive war chest from the PIF.</p>\n",
+				"content_text": "My latest story with Tariq Panja published in the _New York Times_ today: the Saudi Pro League plans to [bring in more big names](https://www.nytimes.com/2023/06/02/sports/soccer/saudi-soccer-messi-benzema-ronaldo.html) after Cristiano Ronaldo using a new centralized approach backed by a massive war chest from the PIF.\n",
+				"date_published": "2023-06-03T11:43:52+03:00",
+				"url": "https://blog.alomran.me/2023/06/03/my-latest-story.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/29/saudi-citizen-kidnapped.html",
+				
+				"content_html": "<p>Saudi citizen <a href=\"https://www.reuters.com/world/middle-east/riyadh-asks-diplomatic-staff-beirut-stay-home-after-man-kidnapped-2023-05-29/\">kidnapped</a> in Lebanon.</p>\n",
+				"content_text": "Saudi citizen [kidnapped](https://www.reuters.com/world/middle-east/riyadh-asks-diplomatic-staff-beirut-stay-home-after-man-kidnapped-2023-05-29/) in Lebanon.\n",
+				"date_published": "2023-05-29T22:34:07+03:00",
+				"url": "https://blog.alomran.me/2023/05/29/saudi-citizen-kidnapped.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/24/saudi-arabia-to.html",
+				
+				"content_html": "<p>Saudi Arabia to <a href=\"https://www.spa.gov.sa/w1908244\">restore diplomatic relations with Canada</a> to their previous level after 2018 spat.</p>\n",
+				"content_text": "Saudi Arabia to [restore diplomatic relations with Canada](https://www.spa.gov.sa/w1908244) to their previous level after 2018 spat.\n",
+				"date_published": "2023-05-24T21:47:31+03:00",
+				"url": "https://blog.alomran.me/2023/05/24/saudi-arabia-to.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/19/saudi-arabia-in.html",
+				
+				"content_html": "<p>Saudi Arabia in talks over <a href=\"https://www.theguardian.com/football/2023/may/19/saudi-arabia-talks-sponsorship-african-super-league\">$200m deal</a> to sponsor the new African Super League.</p>\n",
+				"content_text": "Saudi Arabia in talks over [$200m deal](https://www.theguardian.com/football/2023/may/19/saudi-arabia-talks-sponsorship-african-super-league) to sponsor the new African Super League.\n",
+				"date_published": "2023-05-19T23:41:12+03:00",
+				"url": "https://blog.alomran.me/2023/05/19/saudi-arabia-in.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/12/remember-ask-jeeves.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/2023/5/12/23721323/ask-jeeves-remember-when-google-search-worked-ai\">Remember</a> Ask Jeeves?</p>\n",
+				"content_text": "[Remember](https://www.theverge.com/2023/5/12/23721323/ask-jeeves-remember-when-google-search-worked-ai) Ask Jeeves?\n",
+				"date_published": "2023-05-12T23:57:55+03:00",
+				"url": "https://blog.alomran.me/2023/05/12/remember-ask-jeeves.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/11/blackrock-is-seeking.html",
+				
+				"content_html": "<p>BlackRock is seeking to <a href=\"https://www.bloomberg.com/news/articles/2023-05-10/blackrock-seeks-1-billion-for-new-fund-with-middle-east-backing\">raise $1 billion</a> for a new Middle East infrastructure and private equity-focused fund. The PIF and Mubadala are in talks to provide capital.</p>\n",
+				"content_text": "BlackRock is seeking to [raise $1 billion](https://www.bloomberg.com/news/articles/2023-05-10/blackrock-seeks-1-billion-for-new-fund-with-middle-east-backing) for a new Middle East infrastructure and private equity-focused fund. The PIF and Mubadala are in talks to provide capital.\n",
+				"date_published": "2023-05-11T20:51:16+03:00",
+				"url": "https://blog.alomran.me/2023/05/11/blackrock-is-seeking.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/10/saudi-king-officially.html",
+				
+				"content_html": "<p>Saudi king officially <a href=\"https://www.spa.gov.sa/en/abefdf8b55d\">invites</a> Syrian president Bashar al-Assad to the Arab leaders summit.</p>\n",
+				"content_text": "Saudi king officially [invites](https://www.spa.gov.sa/en/abefdf8b55d) Syrian president Bashar al-Assad to the Arab leaders summit.\n",
+				"date_published": "2023-05-10T21:46:41+03:00",
+				"url": "https://blog.alomran.me/2023/05/10/saudi-king-officially.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/08/google-turns-this.html",
+				
+				"content_html": "<p>“Google <a href=\"https://www.theverge.com/23712602/google-search-25-years-anniversary-ai-artificial-intelligence\">turns 25 this year</a>. Can you imagine? It’s only 25 — yet it’s almost impossible to recall life without being able to <em>just Google it</em>, without immediate access to answers.”</p>\n",
+				"content_text": "“Google [turns 25 this year](https://www.theverge.com/23712602/google-search-25-years-anniversary-ai-artificial-intelligence). Can you imagine? It’s only 25 — yet it’s almost impossible to recall life without being able to _just Google it_, without immediate access to answers.”\n",
+				"date_published": "2023-05-08T17:52:43+03:00",
+				"url": "https://blog.alomran.me/2023/05/08/google-turns-this.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/08/saudi-arabia-plans.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.bloomberg.com/news/articles/2023-05-08/saudi-red-sea-developer-weighs-public-offering-as-soon-as-2026\">plans</a> to open three resorts in the Red Sea this year and 13 more resorts in 2024.</p>\n",
+				"content_text": "Saudi Arabia [plans](https://www.bloomberg.com/news/articles/2023-05-08/saudi-red-sea-developer-weighs-public-offering-as-soon-as-2026) to open three resorts in the Red Sea this year and 13 more resorts in 2024.\n",
+				"date_published": "2023-05-08T17:42:50+03:00",
+				"url": "https://blog.alomran.me/2023/05/08/saudi-arabia-plans.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/05/twitter-suddenly-removed.html",
+				
+				"content_html": "<p>Twitter suddenly removed 2FA (via Authy app) and deactivated my account about an hour ago. I managed to log in, reactivate and add 2FA again. Bizarre, but probably should not be very surprised. This thing has become so unstable lately.</p>\n",
+				"content_text": "Twitter suddenly removed 2FA (via Authy app) and deactivated my account about an hour ago. I managed to log in, reactivate and add 2FA again. Bizarre, but probably should not be very surprised. This thing has become so unstable lately.\n",
+				"date_published": "2023-05-05T15:11:06+03:00",
+				"url": "https://blog.alomran.me/2023/05/05/twitter-suddenly-removed.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/05/04/the-internet-wasnt.html",
+				
+				"content_html": "<p>“[The internet] wasn’t supposed to be <a href=\"https://defector.com/the-internet-isnt-meant-to-be-so-small\">six boring men with too much money</a> creating spaces that no one likes but everyone is forced to use because those men have driven every other form of online existence into the ground.”</p>\n",
+				"content_text": "“[The internet] wasn’t supposed to be [six boring men with too much money](https://defector.com/the-internet-isnt-meant-to-be-so-small) creating spaces that no one likes but everyone is forced to use because those men have driven every other form of online existence into the ground.”\n",
+				"date_published": "2023-05-04T23:27:11+03:00",
+				"url": "https://blog.alomran.me/2023/05/04/the-internet-wasnt.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/04/23/biden-thanks-saudi.html",
+				
+				"content_html": "<p>Biden <a href=\"https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/22/statement-from-president-joe-biden-on-the-situation-in-sudan/\">thanks</a> Saudi Arabia, Ethiopia and Djibouti for assistance with evacuating US government personnel from Sudan.</p>\n",
+				"content_text": "Biden [thanks](https://www.whitehouse.gov/briefing-room/statements-releases/2023/04/22/statement-from-president-joe-biden-on-the-situation-in-sudan/) Saudi Arabia, Ethiopia and Djibouti for assistance with evacuating US government personnel from Sudan.\n",
+				"date_published": "2023-04-23T12:25:26+03:00",
+				"url": "https://blog.alomran.me/2023/04/23/biden-thanks-saudi.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/04/15/gcc-foreign-ministers.html",
+				
+				"content_html": "<p>GCC+3 foreign ministers condemn Israeli attacks on al-Aqsa and emphasize “Arab leadership role” to end Syria crisis after meeting in Jeddah —<a href=\"https://www.spa.gov.sa/w1888975\">statement</a></p>\n",
+				"content_text": "GCC+3 foreign ministers condemn Israeli attacks on al-Aqsa and emphasize “Arab leadership role” to end Syria crisis after meeting in Jeddah —[statement](https://www.spa.gov.sa/w1888975)\n",
+				"date_published": "2023-04-15T03:01:43+03:00",
+				"url": "https://blog.alomran.me/2023/04/15/gcc-foreign-ministers.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/04/14/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince <a href=\"https://sez.ecza.gov.sa/en/\">announces</a> launch of 4 “Special Economic Zones”.</p>\n",
+				"content_text": "Saudi crown prince [announces](https://sez.ecza.gov.sa/en/) launch of 4 “Special Economic Zones”.\n",
+				"date_published": "2023-04-14T01:02:17+03:00",
+				"url": "https://blog.alomran.me/2023/04/14/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/04/12/iranian-delegation-arrives.html",
+				
+				"content_html": "<p>Iranian delegation <a href=\"https://www.france24.com/en/live-news/20230412-iran-delegation-arrives-in-saudi-amid-thaw-between-regional-powers\">arrives</a> in Saudi Arabia to pave the way for reopening diplomatic missions.</p>\n",
+				"content_text": "Iranian delegation [arrives](https://www.france24.com/en/live-news/20230412-iran-delegation-arrives-in-saudi-amid-thaw-between-regional-powers) in Saudi Arabia to pave the way for reopening diplomatic missions.\n",
+				"date_published": "2023-04-12T15:38:16+03:00",
+				"url": "https://blog.alomran.me/2023/04/12/iranian-delegation-arrives.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/04/04/new-website-for.html",
+				
+				"content_html": "<p><a href=\"https://www.sanabil.com/en/our-partners\">New website</a> for Saudi sovereign wealth fund’s venture arm reveals ties to more than 50 VC and PE firms including Blackstone, KKR, Andreessen Horowitz, CVC and Apollo.</p>\n",
+				"content_text": "[New website](https://www.sanabil.com/en/our-partners) for Saudi sovereign wealth fund’s venture arm reveals ties to more than 50 VC and PE firms including Blackstone, KKR, Andreessen Horowitz, CVC and Apollo.\n",
+				"date_published": "2023-04-04T17:42:37+03:00",
+				"url": "https://blog.alomran.me/2023/04/04/new-website-for.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/23/saudi-arabia-and.html",
+				
+				"content_html": "<p>Saudi Arabia and Syria agree to <a href=\"https://www.reuters.com/world/middle-east/after-iran-saudi-arabia-re-establish-ties-with-syria-sources-say-2023-03-23/\">resume diplomatic ties</a> and reopen embassies after Eid al-Fitr, sources tell Reuters.</p>\n",
+				"content_text": "Saudi Arabia and Syria agree to [resume diplomatic ties](https://www.reuters.com/world/middle-east/after-iran-saudi-arabia-re-establish-ties-with-syria-sources-say-2023-03-23/) and reopen embassies after Eid al-Fitr, sources tell Reuters.\n",
+				"date_published": "2023-03-23T17:21:17+03:00",
+				"url": "https://blog.alomran.me/2023/03/23/saudi-arabia-and.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/20/saudi-national-bank.html",
+				
+				"content_html": "<p>Saudi National Bank <a href=\"https://bit.ly/3yRgSQr\">says</a> “no impact” on plans after losing roughly $1.17 billion on Credit Suisse investment.</p>\n",
+				"content_text": "Saudi National Bank [says](https://bit.ly/3yRgSQr) “no impact” on plans after losing roughly $1.17 billion on Credit Suisse investment.\n",
+				"date_published": "2023-03-20T13:54:53+03:00",
+				"url": "https://blog.alomran.me/2023/03/20/saudi-national-bank.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/19/kuwaits-constitutional-court.html",
+				
+				"content_html": "<p>Kuwait’s Constitutional Court <a href=\"https://www.kuna.net.kw/ArticleDetails.aspx?id=3085091&amp;Language=en\">rules</a> that last year’s parliamentary election was void and that the previous assembly must be reinstated.</p>\n",
+				"content_text": "Kuwait’s Constitutional Court [rules](https://www.kuna.net.kw/ArticleDetails.aspx?id=3085091&Language=en) that last year’s parliamentary election was void and that the previous assembly must be reinstated.\n",
+				"date_published": "2023-03-19T21:06:39+03:00",
+				"url": "https://blog.alomran.me/2023/03/19/kuwaits-constitutional-court.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/16/fifa-confirms-that.html",
+				
+				"content_html": "<p>FIFA <a href=\"https://www.reuters.com/lifestyle/sports/visit-saudi-wont-be-sponsor-womens-world-cup-says-infantino-2023-03-16/\">confirms</a> that “Visit Saudi” will not sponsor the Women’s World Cup after protests by players and hosts.</p>\n",
+				"content_text": "FIFA [confirms](https://www.reuters.com/lifestyle/sports/visit-saudi-wont-be-sponsor-womens-world-cup-says-infantino-2023-03-16/) that “Visit Saudi” will not sponsor the Women’s World Cup after protests by players and hosts.\n",
+				"date_published": "2023-03-16T22:01:15+03:00",
+				"url": "https://blog.alomran.me/2023/03/16/fifa-confirms-that.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/12/new-saudi-national.html",
+				
+				"content_html": "<p>New Saudi national carrier officially <a href=\"https://www.pif.gov.sa/en/Pages/NewsDetails.aspx?NewsId-241%2FHRH-Crown-Prince-Announces-Riyadh-Air-New-National-Carrier-to-Further-Expand-Saudi-Aviation-Ecosystem-Locally-and-Globally=\">announced</a> ✈️ PIF-backed “Riyadh Air” aims to reach 100 destinations around the world by 2030.</p>\n",
+				"content_text": "New Saudi national carrier officially [announced](https://www.pif.gov.sa/en/Pages/NewsDetails.aspx?NewsId-241%2FHRH-Crown-Prince-Announces-Riyadh-Air-New-National-Carrier-to-Further-Expand-Saudi-Aviation-Ecosystem-Locally-and-Globally=) ✈️ PIF-backed “Riyadh Air” aims to reach 100 destinations around the world by 2030.\n",
+				"date_published": "2023-03-12T20:41:21+03:00",
+				"url": "https://blog.alomran.me/2023/03/12/new-saudi-national.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/09/us-releases-saudi.html",
+				
+				"content_html": "<p>US <a href=\"https://www.nytimes.com/2023/03/08/us/politics/saudi-guantanamo-bay-al-sharbi-transfer.html\">releases</a> Saudi engineer from Guantánamo after two decades without trial.</p>\n",
+				"content_text": "US [releases](https://www.nytimes.com/2023/03/08/us/politics/saudi-guantanamo-bay-al-sharbi-transfer.html) Saudi engineer from Guantánamo after two decades without trial.\n",
+				"date_published": "2023-03-09T18:13:00+03:00",
+				"url": "https://blog.alomran.me/2023/03/09/us-releases-saudi.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/06/saudi-arabia-deposits.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.spa.gov.sa/w1865124\">deposits</a> $5 billion in Türkiye’s central bank.</p>\n",
+				"content_text": "Saudi Arabia [deposits](https://www.spa.gov.sa/w1865124) $5 billion in Türkiye’s central bank.\n",
+				"date_published": "2023-03-06T16:48:27+03:00",
+				"url": "https://blog.alomran.me/2023/03/06/saudi-arabia-deposits.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/05/saudiowned-broadcaster-mbc.html",
+				
+				"content_html": "<p>Saudi-owned broadcaster <a href=\"https://www.thenationalnews.com/gulf-news/2023/03/03/mbcs-shahid-removes-series-on-kuwaits-flight-422-hijacking/\">MBC pulls controversial series</a> about the 1988 hijacking of Kuwaiti airplane from its Shahid streaming platform after objections by Kuwait’s Ministry of Information.</p>\n",
+				"content_text": "Saudi-owned broadcaster [MBC pulls controversial series](https://www.thenationalnews.com/gulf-news/2023/03/03/mbcs-shahid-removes-series-on-kuwaits-flight-422-hijacking/) about the 1988 hijacking of Kuwaiti airplane from its Shahid streaming platform after objections by Kuwait’s Ministry of Information.\n",
+				"date_published": "2023-03-05T22:50:31+03:00",
+				"url": "https://blog.alomran.me/2023/03/05/saudiowned-broadcaster-mbc.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/05/residential-rents-in.html",
+				
+				"content_html": "<p>Residential rents in Jeddah <a href=\"https://www.alriyadh.com/2000848\">spiked by 23% in January</a> compared to the same month last year, while Riyadh saw an 11% increase over the same period.</p>\n",
+				"content_text": "Residential rents in Jeddah [spiked by 23% in January](https://www.alriyadh.com/2000848) compared to the same month last year, while Riyadh saw an 11% increase over the same period.\n",
+				"date_published": "2023-03-05T22:43:54+03:00",
+				"url": "https://blog.alomran.me/2023/03/05/residential-rents-in.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/03/saudi-arabia-condemns.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.spa.gov.sa/w1864178\">condemns</a> “racist and irresponsible” call by Israeli official to erase the Palestinian village of Hawara.</p>\n",
+				"content_text": "Saudi Arabia [condemns](https://www.spa.gov.sa/w1864178) “racist and irresponsible” call by Israeli official to erase the Palestinian village of Hawara. \n",
+				"date_published": "2023-03-03T19:29:54+03:00",
+				"url": "https://blog.alomran.me/2023/03/03/saudi-arabia-condemns.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/03/01/saudi-nonoil-economy.html",
+				
+				"content_html": "<p>Saudi non-oil economy will <a href=\"https://www.jadwa.com/sites/default/files/2023-02/Saudi%20Economy%20-%202023_0.pdf\">continue growing</a> well in excess of 5% in 2023, driven by sustained impulses from both investment and consumption. But overall GDP growth is set to slow to 2.8% from last year’s world-leading 8.7% as oil production is reined in.</p>\n",
+				"content_text": "Saudi non-oil economy will [continue growing](https://www.jadwa.com/sites/default/files/2023-02/Saudi%20Economy%20-%202023_0.pdf) well in excess of 5% in 2023, driven by sustained impulses from both investment and consumption. But overall GDP growth is set to slow to 2.8% from last year’s world-leading 8.7% as oil production is reined in.\n",
+				"date_published": "2023-03-01T11:57:47+03:00",
+				"url": "https://blog.alomran.me/2023/03/01/saudi-nonoil-economy.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/28/white-house-says.html",
+				
+				"content_html": "<p>White House says Biden’s decision to <a href=\"https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/27/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-6/\">reevaluate US-Saudi relations</a> after the Opec+ decision was “never about producing a homework assignment. That’s just a misnomer. That was never the intent here.”</p>\n",
+				"content_text": "White House says Biden’s decision to [reevaluate US-Saudi relations](https://www.whitehouse.gov/briefing-room/press-briefings/2023/02/27/press-briefing-by-press-secretary-karine-jean-pierre-and-national-security-council-coordinator-for-strategic-communications-john-kirby-6/) after the Opec+ decision was “never about producing a homework assignment. That’s just a misnomer. That was never the intent here.”\n",
+				"date_published": "2023-02-28T17:28:40+03:00",
+				"url": "https://blog.alomran.me/2023/02/28/white-house-says.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/26/saudi-fm-prince.html",
+				
+				"content_html": "<p>Saudi FM Prince Faisal bin Farhan <a href=\"https://www.spa.gov.sa/w1860698\">meets</a> Zelenskyy in Kyiv today —SPA</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Saudi FM Prince Faisal bin Farhan [meets](https://www.spa.gov.sa/w1860698) Zelenskyy in Kyiv today —SPA\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2023/d67a779f1a.jpg\" width=\"600\" height=\"479\" alt=\"\">\n",
+				"date_published": "2023-02-26T19:32:14+03:00",
+				"url": "https://blog.alomran.me/2023/02/26/saudi-fm-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/24/netflix-cuts-subscription.html",
+				
+				"content_html": "<p>Netflix <a href=\"https://www.hollywoodreporter.com/business/business-news/netflix-price-drop-international-password-sharing-1235332333/\">cuts subscription prices</a> in all Arab countries except the six GCC states.</p>\n",
+				"content_text": "Netflix [cuts subscription prices](https://www.hollywoodreporter.com/business/business-news/netflix-price-drop-international-password-sharing-1235332333/) in all Arab countries except the six GCC states.\n",
+				"date_published": "2023-02-24T11:28:26+03:00",
+				"url": "https://blog.alomran.me/2023/02/24/netflix-cuts-subscription.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/22/saudi-arabia-condemns.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.spa.gov.sa/w1858186\">condemns</a> Israeli raid on Nablus.</p>\n",
+				"content_text": "Saudi Arabia [condemns](https://www.spa.gov.sa/w1858186) Israeli raid on Nablus. \n",
+				"date_published": "2023-02-22T20:11:53+03:00",
+				"url": "https://blog.alomran.me/2023/02/22/saudi-arabia-condemns.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/21/saudi-arabia-will.html",
+				
+				"content_html": "<p>Saudi Arabia will <a href=\"https://www.reuters.com/world/middle-east/saudi-arabia-deposit-1-billion-yemens-central-bank-source-2023-02-21/\">make a $1 billion deposit</a> in Yemen’s Aden-based central bank today, as the government there struggles with a weak currency and high fuel and commodity prices.</p>\n",
+				"content_text": "Saudi Arabia will [make a $1 billion deposit](https://www.reuters.com/world/middle-east/saudi-arabia-deposit-1-billion-yemens-central-bank-source-2023-02-21/) in Yemen’s Aden-based central bank today, as the government there struggles with a weak currency and high fuel and commodity prices.\n",
+				"date_published": "2023-02-21T14:53:15+03:00",
+				"url": "https://blog.alomran.me/2023/02/21/saudi-arabia-will.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/17/saudi-sovereign-wealth.html",
+				
+				"content_html": "<p>Saudi sovereign wealth fund becomes the <a href=\"https://www.bloomberg.com/news/articles/2023-02-17/saudi-arabia-becomes-largest-outside-shareholder-of-nintendo\">largest outside shareholder of Nintendo</a> 🎮</p>\n",
+				"content_text": "Saudi sovereign wealth fund becomes the [largest outside shareholder of Nintendo](https://www.bloomberg.com/news/articles/2023-02-17/saudi-arabia-becomes-largest-outside-shareholder-of-nintendo) 🎮\n",
+				"date_published": "2023-02-17T13:01:44+03:00",
+				"url": "https://blog.alomran.me/2023/02/17/saudi-sovereign-wealth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/16/gulf-sovereign-wealth.html",
+				
+				"content_html": "<p>Gulf sovereign wealth funds <a href=\"https://www.bloomberg.com/news/articles/2023-02-16/nba-teams-become-target-for-mubadala-and-qatar-investment-authority\">interested</a> in buying minority stakes in NBA teams 🏀</p>\n",
+				"content_text": "Gulf sovereign wealth funds [interested](https://www.bloomberg.com/news/articles/2023-02-16/nba-teams-become-target-for-mubadala-and-qatar-investment-authority) in buying minority stakes in NBA teams 🏀\n",
+				"date_published": "2023-02-16T23:36:44+03:00",
+				"url": "https://blog.alomran.me/2023/02/16/gulf-sovereign-wealth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/14/saudi-arabia-to.html",
+				
+				"content_html": "<p>🚨 Saudi Arabia to <a href=\"https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-highlights-record-breaking-revenue-in-football\">host</a> the FIFA Club World Cup 2023 in December.</p>\n",
+				"content_text": "🚨 Saudi Arabia to [host](https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-highlights-record-breaking-revenue-in-football) the FIFA Club World Cup 2023 in December.\n",
+				"date_published": "2023-02-14T20:03:16+03:00",
+				"url": "https://blog.alomran.me/2023/02/14/saudi-arabia-to.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/14/saudi-sovereign-wealth.html",
+				
+				"content_html": "<p>Saudi sovereign wealth fund <a href=\"https://www.spa.gov.sa/w1853901\">invests $1.3 billion</a> in four local construction firms.</p>\n",
+				"content_text": "Saudi sovereign wealth fund [invests $1.3 billion](https://www.spa.gov.sa/w1853901) in four local construction firms.\n",
+				"date_published": "2023-02-14T17:40:51+03:00",
+				"url": "https://blog.alomran.me/2023/02/14/saudi-sovereign-wealth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/13/saudi-arabia-reiterates.html",
+				
+				"content_html": "<p>Saudi Arabia reiterates “rejection of settlements in the occupied Palestinian Territories” and <a href=\"https://www.spa.gov.sa/w1853707\">warns against taking any unilateral measures</a> that would undermine the chances of reviving the peace process.</p>\n",
+				"content_text": "Saudi Arabia reiterates “rejection of settlements in the occupied Palestinian Territories” and [warns against taking any unilateral measures](https://www.spa.gov.sa/w1853707) that would undermine the chances of reviving the peace process.\n",
+				"date_published": "2023-02-13T23:17:07+03:00",
+				"url": "https://blog.alomran.me/2023/02/13/saudi-arabia-reiterates.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/07/saudi-king-and.html",
+				
+				"content_html": "<p>Saudi king and crown prince order sending urgent medical, food, shelter and logistical aid to <a href=\"https://www.spa.gov.sa/w1851182\">help earthquake victimes</a> in Türkiye and Syria. The kingdom will also launch a donation campaign for the public to contribute.</p>\n",
+				"content_text": "Saudi king and crown prince order sending urgent medical, food, shelter and logistical aid to [help earthquake victimes](https://www.spa.gov.sa/w1851182) in Türkiye and Syria. The kingdom will also launch a donation campaign for the public to contribute.\n",
+				"date_published": "2023-02-07T20:46:36+03:00",
+				"url": "https://blog.alomran.me/2023/02/07/saudi-king-and.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/06/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince tells Erdoğan in telephone call that the <a href=\"https://www.spa.gov.sa/w1850601\">kingdom stands with Türkiye</a> to help it overcome the impact of the devastating earthquake —SPA</p>\n",
+				"content_text": "Saudi crown prince tells Erdoğan in telephone call that the [kingdom stands with Türkiye](https://www.spa.gov.sa/w1850601) to help it overcome the impact of the devastating earthquake —SPA\n",
+				"date_published": "2023-02-06T21:14:16+03:00",
+				"url": "https://blog.alomran.me/2023/02/06/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/04/twitter-blue-is.html",
+				
+				"content_html": "<p>Twitter Blue is now <a href=\"https://techcrunch.com/2023/02/02/twitter-blue-expands-to-six-new-countries-brings-back-spaces-curation/\">available to users in Saudi Arabia</a>, making it one of just 12 markets where the company is offering its subscription service.</p>\n",
+				"content_text": "Twitter Blue is now [available to users in Saudi Arabia](https://techcrunch.com/2023/02/02/twitter-blue-expands-to-six-new-countries-brings-back-spaces-curation/), making it one of just 12 markets where the company is offering its subscription service.\n",
+				"date_published": "2023-02-04T22:58:52+03:00",
+				"url": "https://blog.alomran.me/2023/02/04/twitter-blue-is.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/02/02/five-minutes-before.html",
+				
+				"content_html": "<p>Five minutes before the transfer deadline, Chelsea finally sent over a document for the Ziyech deal. It was the wrong one. When that was pointed out, a second soon followed, but it was not signed. By the time the new error was fixed, the <a href=\"https://www.nytimes.com/2023/02/02/sports/soccer/chelsea-transfers.html\">deadline had already passed</a>.</p>\n",
+				"content_text": "Five minutes before the transfer deadline, Chelsea finally sent over a document for the Ziyech deal. It was the wrong one. When that was pointed out, a second soon followed, but it was not signed. By the time the new error was fixed, the [deadline had already passed](https://www.nytimes.com/2023/02/02/sports/soccer/chelsea-transfers.html).\n",
+				"date_published": "2023-02-02T16:53:34+03:00",
+				"url": "https://blog.alomran.me/2023/02/02/five-minutes-before.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/26/saudi-arabia-condemns.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.spa.gov.sa/w1845956\">condemns</a> Israeli raid on the Palestinian town of Jenin.</p>\n",
+				"content_text": "Saudi Arabia [condemns](https://www.spa.gov.sa/w1845956) Israeli raid on the Palestinian town of Jenin.\n",
+				"date_published": "2023-01-26T22:26:08+03:00",
+				"url": "https://blog.alomran.me/2023/01/26/saudi-arabia-condemns.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/24/elon-musk-has.html",
+				
+				"content_html": "<p>Elon Musk has <a href=\"https://www.nytimes.com/2023/01/23/business/elon-musk-tesla-trial.html\">testified</a> in the Tesla fraud trial that the PIF had “unequivocally wanted to take Tesla private” even though no Saudi officials signed any documents to commit to the deal.</p>\n",
+				"content_text": "Elon Musk has [testified](https://www.nytimes.com/2023/01/23/business/elon-musk-tesla-trial.html) in the Tesla fraud trial that the PIF had “unequivocally wanted to take Tesla private” even though no Saudi officials signed any documents to commit to the deal.\n",
+				"date_published": "2023-01-24T15:06:18+03:00",
+				"url": "https://blog.alomran.me/2023/01/24/elon-musk-has.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/23/kuwait-government-resigns.html",
+				
+				"content_html": "<p>🚨 Kuwait government <a href=\"https://www.kuna.net.kw/ArticleDetails.aspx?id=3078524&amp;language=en\">resigns</a> after stalemate with parliament over loan forgiveness proposal.</p>\n",
+				"content_text": "🚨 Kuwait government [resigns](https://www.kuna.net.kw/ArticleDetails.aspx?id=3078524&language=en) after stalemate with parliament over loan forgiveness proposal.\n",
+				"date_published": "2023-01-23T18:55:23+03:00",
+				"url": "https://blog.alomran.me/2023/01/23/kuwait-government-resigns.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/18/egyptborn-nemat-minouche.html",
+				
+				"content_html": "<p>Egypt-born <a href=\"https://www.columbia.edu/content/minouche-shafik\">Nemat “Minouche” Shafik</a> to become the 20th president of Columbia University.</p>\n",
+				"content_text": "Egypt-born [Nemat “Minouche” Shafik](https://www.columbia.edu/content/minouche-shafik) to become the 20th president of Columbia University.\n",
+				"date_published": "2023-01-18T19:22:01+03:00",
+				"url": "https://blog.alomran.me/2023/01/18/egyptborn-nemat-minouche.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/17/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince launches a <a href=\"https://www.spa.gov.sa/w1840721\">new infrastructure fund</a> with a focus on entertainment and cultural venues. The Events Investment Fund (EIF) plans to build indoor arenas, art galleries, theaters, conference centers, horse-racing tracks and auto racing tracks.</p>\n",
+				"content_text": "Saudi crown prince launches a [new infrastructure fund](https://www.spa.gov.sa/w1840721) with a focus on entertainment and cultural venues. The Events Investment Fund (EIF) plans to build indoor arenas, art galleries, theaters, conference centers, horse-racing tracks and auto racing tracks.\n",
+				"date_published": "2023-01-17T15:04:26+03:00",
+				"url": "https://blog.alomran.me/2023/01/17/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/16/twitters-move-to.html",
+				
+				"content_html": "<p>Twitter’s move to <a href=\"https://stratechery.com/2023/twitter-kills-third-party-clients-twitters-tortured-history-with-3rd-party-apps-the-twitter-files-business-model/\">kill third-party clients</a> is potentially a signal that its “Blue” subscription service has already been deemed a failure.</p>\n",
+				"content_text": "Twitter’s move to [kill third-party clients](https://stratechery.com/2023/twitter-kills-third-party-clients-twitters-tortured-history-with-3rd-party-apps-the-twitter-files-business-model/) is potentially a signal that its “Blue” subscription service has already been deemed a failure.\n",
+				"date_published": "2023-01-16T15:15:13+03:00",
+				"url": "https://blog.alomran.me/2023/01/16/twitters-move-to.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/13/saudi-sovereign-wealth.html",
+				
+				"content_html": "<p>Saudi sovereign wealth fund governor <a href=\"https://www.bloomberg.com/news/articles/2023-01-12/saudi-pif-seeks-to-block-subpoena-in-musk-s-tesla-fraud-case\">refuses to testify</a> at Musk’s Tesla fraud trial.</p>\n",
+				"content_text": "Saudi sovereign wealth fund governor [refuses to testify](https://www.bloomberg.com/news/articles/2023-01-12/saudi-pif-seeks-to-block-subpoena-in-musk-s-tesla-fraud-case) at Musk’s Tesla fraud trial.\n",
+				"date_published": "2023-01-13T11:32:17+03:00",
+				"url": "https://blog.alomran.me/2023/01/13/saudi-sovereign-wealth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/09/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince <a href=\"https://www.spa.gov.sa/2416025\">announces</a> that plans to develop the royal family’s ancestral hometown of Diriyah will now become part of the sovereign wealth fund’s giga-projects that also include Neom, Qiddyia and Red Sea resorts.</p>\n",
+				"content_text": "Saudi crown prince [announces](https://www.spa.gov.sa/2416025) that plans to develop the royal family’s ancestral hometown of Diriyah will now become part of the sovereign wealth fund’s giga-projects that also include Neom, Qiddyia and Red Sea resorts.\n",
+				"date_published": "2023-01-09T13:25:12+03:00",
+				"url": "https://blog.alomran.me/2023/01/09/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/03/number-of-atms.html",
+				
+				"content_html": "<p>Number of ATMs in Saudi Arabia <a href=\"https://www.okaz.com.sa/economy/saudi/2123288\">down by 11.5% in two years</a> as the kingdom pushes for “cashless” transactions.</p>\n",
+				"content_text": "Number of ATMs in Saudi Arabia [down by 11.5% in two years](https://www.okaz.com.sa/economy/saudi/2123288) as the kingdom pushes for “cashless” transactions.\n",
+				"date_published": "2023-01-03T16:43:41+03:00",
+				"url": "https://blog.alomran.me/2023/01/03/number-of-atms.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/03/saudi-arabia-and.html",
+				
+				"content_html": "<p>Saudi Arabia and fellow GCC states <a href=\"https://www.spa.gov.sa/2414609\">condemn</a> “provocative actions” by Israeli official who stormed al-Aqsa mosque’s courtyard.</p>\n",
+				"content_text": "Saudi Arabia and fellow GCC states [condemn](https://www.spa.gov.sa/2414609) “provocative actions” by Israeli official who stormed al-Aqsa mosque’s courtyard.\n",
+				"date_published": "2023-01-03T16:21:16+03:00",
+				"url": "https://blog.alomran.me/2023/01/03/saudi-arabia-and.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2023/01/01/dubai-suspends-tax.html",
+				
+				"content_html": "<p>Dubai <a href=\"https://www.caterermiddleeast.com/news/30-percent-tax-on-alcohol-sales-suspended-by-dubai-municipality\">suspends</a> 30% tax on alcohol sales.</p>\n",
+				"content_text": "Dubai [suspends](https://www.caterermiddleeast.com/news/30-percent-tax-on-alcohol-sales-suspended-by-dubai-municipality) 30% tax on alcohol sales.\n",
+				"date_published": "2023-01-01T18:26:41+03:00",
+				"url": "https://blog.alomran.me/2023/01/01/dubai-suspends-tax.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/27/saudi-government-approves.html",
+				
+				"content_html": "<p>Saudi government <a href=\"https://www.spa.gov.sa/2412992\">approves cooperation agreement</a> between the kingdom’s Ministry of Sports and the UK’s Department for Digital, Culture, Media &amp; Sport.</p>\n",
+				"content_text": "Saudi government [approves cooperation agreement](https://www.spa.gov.sa/2412992) between the kingdom’s Ministry of Sports and the UK’s Department for Digital, Culture, Media & Sport.\n",
+				"date_published": "2022-12-27T15:58:30+03:00",
+				"url": "https://blog.alomran.me/2022/12/27/saudi-government-approves.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/27/saudi-sovereign-wealth.html",
+				
+				"content_html": "<p>Saudi sovereign wealth fund <a href=\"https://www.telegraph.co.uk/business/2022/12/26/saudis-take-control-us-augmented-reality-company-magic-leap/\">takes control</a> of augmented reality company Magic Leap.</p>\n",
+				"content_text": "Saudi sovereign wealth fund [takes control](https://www.telegraph.co.uk/business/2022/12/26/saudis-take-control-us-augmented-reality-company-magic-leap/) of augmented reality company Magic Leap.\n",
+				"date_published": "2022-12-27T15:23:13+03:00",
+				"url": "https://blog.alomran.me/2022/12/27/saudi-sovereign-wealth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/22/snap-to-set.html",
+				
+				"content_html": "<p>Snap to set up an office and content creator studio in Riyadh after signing a <a href=\"https://www.spa.gov.sa/2411937\">cooperation agreement</a> with the Saudi Ministry of Culture. CEO Evan Spiegel traveled to the kingdom for the announcement.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snap to set up an office and content creator studio in Riyadh after signing a [cooperation agreement](https://www.spa.gov.sa/2411937) with the Saudi Ministry of Culture. CEO Evan Spiegel traveled to the kingdom for the announcement.\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2022/afe177de73.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2022-12-22T21:12:51+03:00",
+				"url": "https://blog.alomran.me/2022/12/22/snap-to-set.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/21/saudi-arabia-calls.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.spa.gov.sa/2411651\">calls on Taliban to reverse decision</a> banning women from higher education.</p>\n",
+				"content_text": "Saudi Arabia [calls on Taliban to reverse decision](https://www.spa.gov.sa/2411651) banning women from higher education.\n",
+				"date_published": "2022-12-21T21:36:42+03:00",
+				"url": "https://blog.alomran.me/2022/12/21/saudi-arabia-calls.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/18/one-point-worth.html",
+				
+				"content_html": "<p>One point worth noting on the <a href=\"https://www.nytimes.com/2022/12/17/sports/soccer/world-cup-armbands.html\">armband controversy</a>: Fifa updated its rules before the 2002 World Cup in Korea and Japan to mandate all national team captains to wear Fifa-provided armbands at the tournament.</p>\n",
+				"content_text": "One point worth noting on the [armband controversy](https://www.nytimes.com/2022/12/17/sports/soccer/world-cup-armbands.html): Fifa updated its rules before the 2002 World Cup in Korea and Japan to mandate all national team captains to wear Fifa-provided armbands at the tournament.\n",
+				"date_published": "2022-12-18T15:46:15+03:00",
+				"url": "https://blog.alomran.me/2022/12/18/one-point-worth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/12/saudi-sovereign-wealth.html",
+				
+				"content_html": "<p>Saudi sovereign wealth fund <a href=\"https://www.spa.gov.sa/2409020\">acquires 9.5% stake</a> in wind farm developer Skyborn Renewables.</p>\n",
+				"content_text": "Saudi sovereign wealth fund [acquires 9.5% stake](https://www.spa.gov.sa/2409020) in wind farm developer Skyborn Renewables.\n",
+				"date_published": "2022-12-12T20:29:39+03:00",
+				"url": "https://blog.alomran.me/2022/12/12/saudi-sovereign-wealth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/11/nyt-obtains-study.html",
+				
+				"content_html": "<p>NYT <a href=\"https://www.nytimes.com/2022/12/11/sports/golf/liv-saudi-pga.html\">obtains</a> study that McKinsey conducted for Saudi Arabia’s wealth fund ahead of launching the LIV Golf tour.</p>\n",
+				"content_text": "NYT [obtains](https://www.nytimes.com/2022/12/11/sports/golf/liv-saudi-pga.html) study that McKinsey conducted for Saudi Arabia’s wealth fund ahead of launching the LIV Golf tour.\n",
+				"date_published": "2022-12-11T22:40:59+03:00",
+				"url": "https://blog.alomran.me/2022/12/11/nyt-obtains-study.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/07/nso-groups-claim.html",
+				
+				"content_html": "<p>NSO Group’s claim of sovereign immunity in US courts <a href=\"https://www.codastory.com/newsletters/china-protests-iran-internet-censorship-nso/\">likely to fail</a>.</p>\n",
+				"content_text": "NSO Group’s claim of sovereign immunity in US courts [likely to fail](https://www.codastory.com/newsletters/china-protests-iran-internet-censorship-nso/). \n",
+				"date_published": "2022-12-07T22:34:36+03:00",
+				"url": "https://blog.alomran.me/2022/12/07/nso-groups-claim.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/05/saudi-arabia-is.html",
+				
+				"content_html": "<p>Saudi Arabia is now the <a href=\"https://apnews.com/article/world-cup-soccer-sports-saudi-arabia-international-9cf54d4e28fffa8b40e09647bd7a4221\">only candidate to host the 2027 Asian Cup</a> after India’s football federation withdrew its bid. The kingdom also submitted a bid to host the women’s version of the competition in 2026.</p>\n",
+				"content_text": "Saudi Arabia is now the [only candidate to host the 2027 Asian Cup](https://apnews.com/article/world-cup-soccer-sports-saudi-arabia-international-9cf54d4e28fffa8b40e09647bd7a4221) after India’s football federation withdrew its bid. The kingdom also submitted a bid to host the women’s version of the competition in 2026.\n",
+				"date_published": "2022-12-05T17:13:51+03:00",
+				"url": "https://blog.alomran.me/2022/12/05/saudi-arabia-is.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/05/al-saqi-books.html",
+				
+				"content_html": "<p>Al Saqi Books, Europe’s largest Middle Eastern specialist bookseller, is to <a href=\"https://www.thebookseller.com/news/al-saqi-books-to-close-its-doors-after-44-years-due-to-difficult-economic-challenges\">close its shop</a> in London after 44 years due to “difficult economic challenges”. Its publishing houses Saqi Books and Dar al Saqi will continue to operate.</p>\n",
+				"content_text": "Al Saqi Books, Europe’s largest Middle Eastern specialist bookseller, is to [close its shop](https://www.thebookseller.com/news/al-saqi-books-to-close-its-doors-after-44-years-due-to-difficult-economic-challenges) in London after 44 years due to “difficult economic challenges”. Its publishing houses Saqi Books and Dar al Saqi will continue to operate.\n",
+				"date_published": "2022-12-05T17:06:29+03:00",
+				"url": "https://blog.alomran.me/2022/12/05/al-saqi-books.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/02/saudi-arabia-submits.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"https://www.spa.gov.sa/2406036\">submits</a> bid to host the Women’s Asian Cup in 2026.</p>\n",
+				"content_text": "Saudi Arabia [submits](https://www.spa.gov.sa/2406036) bid to host the Women’s Asian Cup in 2026.\n",
+				"date_published": "2022-12-02T15:57:03+03:00",
+				"url": "https://blog.alomran.me/2022/12/02/saudi-arabia-submits.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/12/01/jamie-zawinski-most.html",
+				
+				"content_html": "<p><a href=\"https://www.jwz.org/blog/2022/11/psa-do-not-use-services-that-hate-the-internet/\">Jamie Zawinski</a>: “Most social media services want to lock you in. They love their walled gardens and they think that so long as they tightly control their users and make it hard for them to escape, they will rule the world forever.”</p>\n",
+				"content_text": "[Jamie Zawinski](https://www.jwz.org/blog/2022/11/psa-do-not-use-services-that-hate-the-internet/): “Most social media services want to lock you in. They love their walled gardens and they think that so long as they tightly control their users and make it hard for them to escape, they will rule the world forever.”\n",
+				"date_published": "2022-12-01T15:02:34+03:00",
+				"url": "https://blog.alomran.me/2022/12/01/jamie-zawinski-most.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/30/chinese-president-xi.html",
+				
+				"content_html": "<p>Chinese President Xi Jinping <a href=\"https://www.reuters.com/world/middle-east/saudi-arabia-host-china-arab-summit-during-xi-visit-sources-say-2022-11-30/\">expected</a> to arrive in Saudi Arabia December 7th and attend a Chinese-Arab summit in Riyadh two days later.</p>\n",
+				"content_text": "Chinese President Xi Jinping [expected](https://www.reuters.com/world/middle-east/saudi-arabia-host-china-arab-summit-during-xi-visit-sources-say-2022-11-30/) to arrive in Saudi Arabia December 7th and attend a Chinese-Arab summit in Riyadh two days later.\n",
+				"date_published": "2022-11-30T19:03:39+03:00",
+				"url": "https://blog.alomran.me/2022/11/30/chinese-president-xi.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/30/saudi-energy-minister.html",
+				
+				"content_html": "<p>Saudi energy minister <a href=\"https://www.spa.gov.sa/2405507\">announces</a> discovery of two unconventional natural gas fields in the kingdom’s Eastern Province.</p>\n",
+				"content_text": "Saudi energy minister [announces](https://www.spa.gov.sa/2405507) discovery of two unconventional natural gas fields in the kingdom’s Eastern Province.\n",
+				"date_published": "2022-11-30T16:16:19+03:00",
+				"url": "https://blog.alomran.me/2022/11/30/saudi-energy-minister.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/30/saudi-food-delivery.html",
+				
+				"content_html": "<p>Saudi food delivery app Jahez <a href=\"https://www.bloomberg.com/news/articles/2022-11-30/saudi-food-delivery-firm-jahez-to-buy-chefz-in-cash-stock-deal-lb3937cb\">acquires</a> rival The Chefz in $173 million cash and stock deal.</p>\n",
+				"content_text": "Saudi food delivery app Jahez [acquires](https://www.bloomberg.com/news/articles/2022-11-30/saudi-food-delivery-firm-jahez-to-buy-chefz-in-cash-stock-deal-lb3937cb) rival The Chefz in $173 million cash and stock deal.\n",
+				"date_published": "2022-11-30T13:30:10+03:00",
+				"url": "https://blog.alomran.me/2022/11/30/saudi-food-delivery.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/29/this-years-world.html",
+				
+				"content_html": "<p>This year’s World Cup match balls come with a <a href=\"https://fivethirtyeight.com/features/the-world-cups-new-high-tech-ball-will-change-soccer-forever/\">sensor that collects spatial positioning data in real time</a>. Combined with existing optical tracking tools, this makes VAR more accurate and streamlined.</p>\n",
+				"content_text": "This year’s World Cup match balls come with a [sensor that collects spatial positioning data in real time](https://fivethirtyeight.com/features/the-world-cups-new-high-tech-ball-will-change-soccer-forever/). Combined with existing optical tracking tools, this makes VAR more accurate and streamlined.\n",
+				"date_published": "2022-11-29T12:54:01+03:00",
+				"url": "https://blog.alomran.me/2022/11/29/this-years-world.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/29/its-been-a.html",
+				
+				"content_html": "<p>It’s been a <a href=\"https://pxlnv.com/blog/one-wild-month/\">month</a> since Elon Musk took over Twitter.</p>\n",
+				"content_text": "It’s been a [month](https://pxlnv.com/blog/one-wild-month/) since Elon Musk took over Twitter.\n",
+				"date_published": "2022-11-29T12:31:58+03:00",
+				"url": "https://blog.alomran.me/2022/11/29/its-been-a.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/20/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince orders all government departments in the kingdom to <a href=\"https://twitter.com/gsaksa/status/1594312049382785025\">provide all support and assistance to Qatar</a> to help with hosting the World Cup —sports minister</p>\n",
+				"content_text": "Saudi crown prince orders all government departments in the kingdom to [provide all support and assistance to Qatar](https://twitter.com/gsaksa/status/1594312049382785025) to help with hosting the World Cup —sports minister \n",
+				"date_published": "2022-11-20T15:58:21+03:00",
+				"url": "https://blog.alomran.me/2022/11/20/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/20/saudi-developer-dar.html",
+				
+				"content_html": "<p>Saudi developer Dar Al Arkan discloses deal with the Trump Organization in <a href=\"https://bit.ly/3USaDFr\">stock market filing</a>. The deal includes building residential villas, a hotel, and a golf course as part of a $1.6bn project in Oman.</p>\n",
+				"content_text": "Saudi developer Dar Al Arkan discloses deal with the Trump Organization in [stock market filing](https://bit.ly/3USaDFr). The deal includes building residential villas, a hotel, and a golf course as part of a $1.6bn project in Oman.\n",
+				"date_published": "2022-11-20T11:43:35+03:00",
+				"url": "https://blog.alomran.me/2022/11/20/saudi-developer-dar.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/16/where-there-is.html",
+				
+				"content_html": "<p>“[W]here there is an opportunity to lose money on tech these days, <a href=\"https://www.ft.com/content/0e375355-85c7-4c4e-87fc-5e73ac268196\">Masayoshi Son still seems one step ahead of the market</a> at having found it ages ago.”</p>\n",
+				"content_text": "“[W]here there is an opportunity to lose money on tech these days, [Masayoshi Son still seems one step ahead of the market](https://www.ft.com/content/0e375355-85c7-4c4e-87fc-5e73ac268196) at having found it ages ago.”\n",
+				"date_published": "2022-11-16T13:47:43+03:00",
+				"url": "https://blog.alomran.me/2022/11/16/where-there-is.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/15/saudi-arabia-set.html",
+				
+				"content_html": "<p>Saudi Arabia set to <a href=\"https://www.artnews.com/art-news/news/andy-warhol-exhibition-saudi-arabia-alula-1234646735/\">host 70 works by Andy Warhol</a> in al-Ula exhibition this winter.</p>\n",
+				"content_text": "Saudi Arabia set to [host 70 works by Andy Warhol](https://www.artnews.com/art-news/news/andy-warhol-exhibition-saudi-arabia-alula-1234646735/) in al-Ula exhibition this winter.\n",
+				"date_published": "2022-11-15T12:37:42+03:00",
+				"url": "https://blog.alomran.me/2022/11/15/saudi-arabia-set.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/15/trump-family-signs.html",
+				
+				"content_html": "<p>Trump family signs a deal with Saudi real estate developer Dar Al Arkan to <a href=\"https://www.nytimes.com/2022/11/14/us/politics/trump-organization-oman-saudi.html\">put his name</a> on a housing and golf complex in Oman.</p>\n",
+				"content_text": "Trump family signs a deal with Saudi real estate developer Dar Al Arkan to [put his name](https://www.nytimes.com/2022/11/14/us/politics/trump-organization-oman-saudi.html) on a housing and golf complex in Oman.\n",
+				"date_published": "2022-11-15T12:19:56+03:00",
+				"url": "https://blog.alomran.me/2022/11/15/trump-family-signs.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/14/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince travels to Indonesia to attend G20 summit, will visit other Asian countries as part of the trip —<a href=\"https://www.spa.gov.sa/2400952\">royal court statement</a>.</p>\n",
+				"content_text": "Saudi crown prince travels to Indonesia to attend G20 summit, will visit other Asian countries as part of the trip —[royal court statement](https://www.spa.gov.sa/2400952).\n",
+				"date_published": "2022-11-14T23:56:42+03:00",
+				"url": "https://blog.alomran.me/2022/11/14/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/14/welsh-football-fans.html",
+				
+				"content_html": "<p>4 Welsh football fans attempting to reach Qatar in electric car in time for Wales’ first game in the World Cup are <a href=\"https://nation.cymru/sport/wales-fans-car-to-qatar-attempt-faces-breakdown-due-to-saudi-arabia-laws/\">stuck at Jordan-Saudi border</a> because the kingdom’s laws ban right-hand drive vehicles.</p>\n",
+				"content_text": "4 Welsh football fans attempting to reach Qatar in electric car in time for Wales’ first game in the World Cup are [stuck at Jordan-Saudi border](https://nation.cymru/sport/wales-fans-car-to-qatar-attempt-faces-breakdown-due-to-saudi-arabia-laws/) because the kingdom’s laws ban right-hand drive vehicles.\n",
+				"date_published": "2022-11-14T22:45:17+03:00",
+				"url": "https://blog.alomran.me/2022/11/14/welsh-football-fans.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/14/saudi-sovereign-wealth.html",
+				
+				"content_html": "<p>Saudi sovereign wealth fund <a href=\"https://www.pif.gov.sa/en/Pages/NewsDetails.aspx?NewsId-227/PIF-signs-MoU-with-BlackRock-to-explore-infrastructure-investments-in-Saudi-Arabia-and-the-Middle-East\">PIF and BlackRock sign MoU</a> to explore opportunities of infrastructure projects in the kingdom and the wider Middle East. Industries to be targeted include energy, utilities, transport and telecoms.</p>\n",
+				"content_text": "Saudi sovereign wealth fund [PIF and BlackRock sign MoU](https://www.pif.gov.sa/en/Pages/NewsDetails.aspx?NewsId-227/PIF-signs-MoU-with-BlackRock-to-explore-infrastructure-investments-in-Saudi-Arabia-and-the-Middle-East) to explore opportunities of infrastructure projects in the kingdom and the wider Middle East. Industries to be targeted include energy, utilities, transport and telecoms.\n",
+				"date_published": "2022-11-14T12:34:20+03:00",
+				"url": "https://blog.alomran.me/2022/11/14/saudi-sovereign-wealth.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/14/pifbacked-acwa-power.html",
+				
+				"content_html": "<p>PIF-backed ACWA Power <a href=\"https://www.bloomberg.com/news/articles/2022-11-13/funding-for-saudi-green-hydrogen-plant-almost-done-says-acwa\">expects</a> financing for Neom’s $5bn green-hydrogen plant to be completed before the end of this year, CEO says.</p>\n",
+				"content_text": "PIF-backed ACWA Power [expects](https://www.bloomberg.com/news/articles/2022-11-13/funding-for-saudi-green-hydrogen-plant-almost-done-says-acwa) financing for Neom’s $5bn green-hydrogen plant to be completed before the end of this year, CEO says. \n",
+				"date_published": "2022-11-14T11:31:09+03:00",
+				"url": "https://blog.alomran.me/2022/11/14/pifbacked-acwa-power.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/14/saudi-king-and.html",
+				
+				"content_html": "<p>Saudi <a href=\"https://www.spa.gov.sa/2400767\">king</a> and <a href=\"https://www.spa.gov.sa/2400768\">crown prince</a> strongly condemn Istanbul bombing in cables of condolences sent to Erdoğan.</p>\n",
+				"content_text": "Saudi [king](https://www.spa.gov.sa/2400767) and [crown prince](https://www.spa.gov.sa/2400768) strongly condemn Istanbul bombing in cables of condolences sent to Erdoğan.\n",
+				"date_published": "2022-11-14T11:24:20+03:00",
+				"url": "https://blog.alomran.me/2022/11/14/saudi-king-and.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/14/people-argue-that.html",
+				
+				"content_html": "<p>“People argue that we should reduce oil production. And then . . . you have a crisis and people are demanding that we increase oil production. It doesn&rsquo;t work both ways,” Saudi climate envoy <a href=\"https://www.ft.com/content/489baf5e-b3b2-40ff-a13c-97ada97f75ef?desktop=true&amp;segmentId=d8d3e364-5197-20eb-17cf-2437841d178a\">Adel al-Jubeir told FT</a> at #COP27 in Sharm el-Sheikh.</p>\n",
+				"content_text": "“People argue that we should reduce oil production. And then . . . you have a crisis and people are demanding that we increase oil production. It doesn't work both ways,” Saudi climate envoy [Adel al-Jubeir told FT](https://www.ft.com/content/489baf5e-b3b2-40ff-a13c-97ada97f75ef?desktop=true&segmentId=d8d3e364-5197-20eb-17cf-2437841d178a) at #COP27 in Sharm el-Sheikh.\n",
+				"date_published": "2022-11-14T11:17:04+03:00",
+				"url": "https://blog.alomran.me/2022/11/14/people-argue-that.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/12/saudius-relations-strong.html",
+				
+				"content_html": "<p>Saudi-US relations <a href=\"https://www.bloomberg.com/news/articles/2022-11-12/saudi-diplomat-jubeir-says-us-ties-solid-will-meet-kerry-at-cop\">strong enough to survive recent disagreement</a> over the kingdom’s oil policy, minister of state for foreign affairs said.</p>\n",
+				"content_text": "Saudi-US relations [strong enough to survive recent disagreement](https://www.bloomberg.com/news/articles/2022-11-12/saudi-diplomat-jubeir-says-us-ties-solid-will-meet-kerry-at-cop) over the kingdom’s oil policy, minister of state for foreign affairs said.\n",
+				"date_published": "2022-11-12T21:13:21+03:00",
+				"url": "https://blog.alomran.me/2022/11/12/saudius-relations-strong.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/12/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince <a href=\"https://tribune.com.pk/story/2386028/saudi-crown-princes-pakistan-visit-postponed\">visit to Pakistan has been postponed</a>. It was originally scheduled to take place later this month.</p>\n",
+				"content_text": "Saudi crown prince [visit to Pakistan has been postponed](https://tribune.com.pk/story/2386028/saudi-crown-princes-pakistan-visit-postponed). It was originally scheduled to take place later this month.\n",
+				"date_published": "2022-11-12T21:07:16+03:00",
+				"url": "https://blog.alomran.me/2022/11/12/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/11/a-twitter-engineering.html",
+				
+				"content_html": "<p>A Twitter engineering manager, upon being told to cut hundreds of workers, vomited into a trash can. Others slept in the office as they worked grueling schedules to <a href=\"https://www.nytimes.com/2022/11/11/technology/elon-musk-twitter-takeover.html\">meet Elon Musk’s orders</a>.</p>\n",
+				"content_text": "A Twitter engineering manager, upon being told to cut hundreds of workers, vomited into a trash can. Others slept in the office as they worked grueling schedules to [meet Elon Musk’s orders](https://www.nytimes.com/2022/11/11/technology/elon-musk-twitter-takeover.html).\n",
+				"date_published": "2022-11-11T23:56:10+03:00",
+				"url": "https://blog.alomran.me/2022/11/11/a-twitter-engineering.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/11/saudi-crown-prince.html",
+				
+				"content_html": "<p>Saudi crown prince <a href=\"https://www.koreatimes.co.kr/www/tech/2022/11/419_339664.html\">expected to meet chaebol tycoons</a> to discuss partnerships for Neom during visit to Korea next week.</p>\n",
+				"content_text": "Saudi crown prince [expected to meet chaebol tycoons](https://www.koreatimes.co.kr/www/tech/2022/11/419_339664.html) to discuss partnerships for Neom during visit to Korea next week.\n",
+				"date_published": "2022-11-11T13:38:15+03:00",
+				"url": "https://blog.alomran.me/2022/11/11/saudi-crown-prince.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/10/saudi-arabia-is.html",
+				
+				"content_html": "<p>Saudi Arabia is <a href=\"https://www.reuters.com/markets/deals/saudi-arabia-working-with-lazard-funding-options-ipo-mecca-mega-project-2022-11-10/\">working with Lazard on funding options</a>, including a potential IPO, for Masar — a $27 billion mega project in the holy city of Mecca.</p>\n",
+				"content_text": "Saudi Arabia is [working with Lazard on funding options](https://www.reuters.com/markets/deals/saudi-arabia-working-with-lazard-funding-options-ipo-mecca-mega-project-2022-11-10/), including a potential IPO, for Masar — a $27 billion mega project in the holy city of Mecca.\n",
+				"date_published": "2022-11-10T21:24:32+03:00",
+				"url": "https://blog.alomran.me/2022/11/10/saudi-arabia-is.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/10/saudiowned-salic-acquires.html",
+				
+				"content_html": "<p>Saudi-owned <a href=\"https://salic.com/news/salic-acquires-9-2-in-lt-foods/\">SALIC acquires 9.2% stake in LT Foods</a>, an Indian basmati rice processing company.</p>\n",
+				"content_text": "Saudi-owned [SALIC acquires 9.2% stake in LT Foods](https://salic.com/news/salic-acquires-9-2-in-lt-foods/), an Indian basmati rice processing company.\n",
+				"date_published": "2022-11-10T21:20:14+03:00",
+				"url": "https://blog.alomran.me/2022/11/10/saudiowned-salic-acquires.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2022/11/10/skift-saudi-arabias.html",
+				
+				"content_html": "<p><a href=\"https://skift.com/2022/11/10/seera-group-rides-saudi-arabias-efforts-to-build-tourism-to-first-post-pandemic-profit/\">Skift</a>: “Saudi Arabia’s increasing focus in the tourism sector and the shift to leisure travel has brought Seera Group from the red to report the company’s first post-pandemic operating profit of $8 million in the third quarter.”</p>\n",
+				"content_text": "[Skift](https://skift.com/2022/11/10/seera-group-rides-saudi-arabias-efforts-to-build-tourism-to-first-post-pandemic-profit/): “Saudi Arabia’s increasing focus in the tourism sector and the shift to leisure travel has brought Seera Group from the red to report the company’s first post-pandemic operating profit of $8 million in the third quarter.”\n",
+				"date_published": "2022-11-10T21:11:17+03:00",
+				"url": "https://blog.alomran.me/2022/11/10/skift-saudi-arabias.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2019/04/15/launched-a-newsletter.html",
+				
+				"content_html": "<p>Launched <em>Riyadh Bureau</em>, a newsletter focused on Saudi Arabia. You can subscribe <a href=\"https://ahmed.substack.com/publish\">here</a></p>\n",
+				"content_text": "Launched _Riyadh Bureau_, a newsletter focused on Saudi Arabia. You can subscribe [here](https://ahmed.substack.com/publish)\n",
+				"date_published": "2019-04-15T12:01:15+03:00",
+				"url": "https://blog.alomran.me/2019/04/15/launched-a-newsletter.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/12/29/saudi-infrastructure-gets.html",
+				"title": "Saudi Infrastructure Gets Upgrade to Lure Pilgrims and Tourists",
+				"content_html": "<p>Muslims doing the hajj pilgrimage to Mecca have for years clambered into cars and buses after finishing in one holy city and headed through the barren Hijaz mountains on a five hour drive to Medina, another sacred place.</p>\n<p>Now they have a new option. Saudi Arabia earlier this year opened the $15 billion Haramain High Speed Railway, a 300km/h line between the cities that was built by the Spanish company Talgo with technology designed to protect it from sand and extreme heat.</p>\n<p>The project is one of several infrastructure initiatives aimed at reviving the kingdom’s economy as Crown Prince Mohammed bin Salman pushes his “Vision 2030” plan to create new engines of growth beyond oil.</p>\n<p>The hope is that the 450km train line will help boost the number of umrah pilgrims visiting Saudi Arabia from 6.8 million this year to 30m by 2030 and that they, in turn, will inspire the creation of more private sector restaurants, hotels and tour operators.</p>\n<p>“This was a fast trip, we didn’t feel time at all,” said Abeer Abu-Kamel, a Syrian doctor, as she got off the train’s first trip from Mecca after performing umrah with her mother. “Next time we want to take it all the way to Medina.”</p>\n<p>Another passenger said she was scared because it is the first time she travels by train. “But <em>alhmdulilah</em> (thanks to God) it was a smooth ride and now I’m thinking I might use it everyday,” said Renad Saleh, a 27-year-old student who lives in Jeddah but goes to school in Umm al-Qura University in Mecca.</p>\n<p>Officials say the train can handle up to 60 million travelers annually and will eventually link up with a proposed railway project connecting the capital Riyadh with the west coast.</p>\n<p>Prince Khalid al-Faisal, Mecca’s governor and a nephew of the king, said: “We want to welcome 30m comfortably and receive them in a way that meets our ambition to improve the experience of our guests. We want to offer the best services.”</p>\n<p>The danger, say sceptics, is that the rail line becomes another case of state oil revenues being used for stimulus spending that has limited trickle down benefits, reviving memories of plans for other magaporjects, like Riyadh’s new financial district, that have failed to take off.</p>\n<p>Karen Young, a Gulf scholar at the American Enterprise Institute, said the move was a departure from ambitious Saudi plans that relied on foreign direct investment and a return to the traditional pattern of oil revenues fuelling state spending.</p>\n<p>“The tourism plans fit this pattern and are a very good source of new economic activity, but not necessarily of creating jobs for nationals, at least at the outset of construction in mega-projects like the railway and airports,” she said.</p>\n<p>Saudi nationals are generally uninterested in construction jobs, which tend to be done in the kingdom by immigrants from South Asia. But Nabil al-Amoudi, transport minister, said operating the train would provide 3,000 jobs to Saudis as drivers, conductors, stewards and ticket sellers.</p>\n<p>Saudi Arabia wants to increase the inflow of visitors for both hajj and umrah, the two main Muslim pilgrimages. While hajj must be performed once in a lifetime by all able-bodied Muslims, umrah can be performed at any time of the year.</p>\n<p>More than two million umrah pilgrims arrived in the kingdom during the current season, and for the first time they were allowed to travel to any city in the kingdom for up to 15 days after visiting Mecca and Medina, a step to encourage more spending.</p>\n<p>The authorities also hope the rail line will revive one struggling urban project, the King Abdullah Economic City, where the train will stop. The city was launched a decade ago but has <a href=\"https://www.ft.com/content/ae48574c-58e6-11e8-bdb7-f6677d2e1ce8\">struggled to attract investment and residents</a>.</p>\n<p>Persuading foreign investors to come to the kingdom has become increasingly difficult as the country continues to deal with the fallout from killing journalist Jamal Khashoggi, but officials hope that ramping up state spending would boost growth and investors would eventually come around.</p>\n<p>The government <a href=\"https://www.ft.com/content/3cf9cffa-02da-11e9-99df-6183d3002ee1\">unveiled an expansionary budget</a> earlier this month, pledging to increase spending on infrastructure and transportation by 28% in 2019. It wants to take advantage of higher oil prices to boost economic growth in the private sector and reduce unemployment which remains high at 12.9%.</p>\n<p>“2018 was a year to contain unemployment among Saudis, but there is good news as we continue a full restructuring of the labour market,” said economy minister Mohammed al-Tuwaijri who predicted that unemployment rate would begin to go down next year.</p>\n<p>The <a href=\"https://www.hhr.sa/sites/sro/Pages/home.aspx\">Haramain train</a> will also stop at another landmark infrastructure project: the new Jeddah international airport, which started serving some local routes over the summer and is expected to become fully operational by the second quarter of 2019.</p>\n<p>The old terminal, built in 1981, has struggled to cope with increasing demand and fallen into disrepair in recent years. “I don’t blame travellers for complaining about the current airport,” Prince Khaled said. “It has not been upgraded in a very long time.”</p>\n<p>The new terminal, built over an area of 810,000 sq m and cost $9.6 billion, is expected to serve around 80m passengers annually, more than double current capacity.</p>\n<p>“The current airport cuts our legs short. It incapacitates the city from fulfilling its full potential,” said Nidhal Taibah, a founding partner at the Saudi office of EHAF Consulting Engineers. “The new airport will make a huge difference.”</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Muslims doing the hajj pilgrimage to Mecca have for years clambered into cars and buses after finishing in one holy city and headed through the barren Hijaz mountains on a five hour drive to Medina, another sacred place.\r\n\r\nNow they have a new option. Saudi Arabia earlier this year opened the $15 billion Haramain High Speed Railway, a 300km/h line between the cities that was built by the Spanish company Talgo with technology designed to protect it from sand and extreme heat.\r\n\r\nThe project is one of several infrastructure initiatives aimed at reviving the kingdom’s economy as Crown Prince Mohammed bin Salman pushes his “Vision 2030” plan to create new engines of growth beyond oil.\r\n\r\nThe hope is that the 450km train line will help boost the number of umrah pilgrims visiting Saudi Arabia from 6.8 million this year to 30m by 2030 and that they, in turn, will inspire the creation of more private sector restaurants, hotels and tour operators.\r\n\r\n“This was a fast trip, we didn’t feel time at all,” said Abeer Abu-Kamel, a Syrian doctor, as she got off the train’s first trip from Mecca after performing umrah with her mother. “Next time we want to take it all the way to Medina.”\r\n\r\nAnother passenger said she was scared because it is the first time she travels by train. “But _alhmdulilah_ (thanks to God) it was a smooth ride and now I’m thinking I might use it everyday,” said Renad Saleh, a 27-year-old student who lives in Jeddah but goes to school in Umm al-Qura University in Mecca.\r\n\r\nOfficials say the train can handle up to 60 million travelers annually and will eventually link up with a proposed railway project connecting the capital Riyadh with the west coast.\r\n\r\nPrince Khalid al-Faisal, Mecca’s governor and a nephew of the king, said: “We want to welcome 30m comfortably and receive them in a way that meets our ambition to improve the experience of our guests. We want to offer the best services.”\r\n\r\nThe danger, say sceptics, is that the rail line becomes another case of state oil revenues being used for stimulus spending that has limited trickle down benefits, reviving memories of plans for other magaporjects, like Riyadh’s new financial district, that have failed to take off.\r\n\r\nKaren Young, a Gulf scholar at the American Enterprise Institute, said the move was a departure from ambitious Saudi plans that relied on foreign direct investment and a return to the traditional pattern of oil revenues fuelling state spending.\r\n\r\n“The tourism plans fit this pattern and are a very good source of new economic activity, but not necessarily of creating jobs for nationals, at least at the outset of construction in mega-projects like the railway and airports,” she said.\r\n\r\nSaudi nationals are generally uninterested in construction jobs, which tend to be done in the kingdom by immigrants from South Asia. But Nabil al-Amoudi, transport minister, said operating the train would provide 3,000 jobs to Saudis as drivers, conductors, stewards and ticket sellers.\r\n\r\nSaudi Arabia wants to increase the inflow of visitors for both hajj and umrah, the two main Muslim pilgrimages. While hajj must be performed once in a lifetime by all able-bodied Muslims, umrah can be performed at any time of the year.\r\n\r\nMore than two million umrah pilgrims arrived in the kingdom during the current season, and for the first time they were allowed to travel to any city in the kingdom for up to 15 days after visiting Mecca and Medina, a step to encourage more spending.\r\n\r\nThe authorities also hope the rail line will revive one struggling urban project, the King Abdullah Economic City, where the train will stop. The city was launched a decade ago but has [struggled to attract investment and residents](https://www.ft.com/content/ae48574c-58e6-11e8-bdb7-f6677d2e1ce8).\r\n\r\nPersuading foreign investors to come to the kingdom has become increasingly difficult as the country continues to deal with the fallout from killing journalist Jamal Khashoggi, but officials hope that ramping up state spending would boost growth and investors would eventually come around. \r\n\r\nThe government [unveiled an expansionary budget](https://www.ft.com/content/3cf9cffa-02da-11e9-99df-6183d3002ee1) earlier this month, pledging to increase spending on infrastructure and transportation by 28% in 2019. It wants to take advantage of higher oil prices to boost economic growth in the private sector and reduce unemployment which remains high at 12.9%.\r\n\r\n“2018 was a year to contain unemployment among Saudis, but there is good news as we continue a full restructuring of the labour market,” said economy minister Mohammed al-Tuwaijri who predicted that unemployment rate would begin to go down next year.\r\n\r\nThe [Haramain train](https://www.hhr.sa/sites/sro/Pages/home.aspx) will also stop at another landmark infrastructure project: the new Jeddah international airport, which started serving some local routes over the summer and is expected to become fully operational by the second quarter of 2019.\r\n\r\nThe old terminal, built in 1981, has struggled to cope with increasing demand and fallen into disrepair in recent years. “I don’t blame travellers for complaining about the current airport,” Prince Khaled said. “It has not been upgraded in a very long time.”\r\n\r\nThe new terminal, built over an area of 810,000 sq m and cost $9.6 billion, is expected to serve around 80m passengers annually, more than double current capacity.\r\n\r\n“The current airport cuts our legs short. It incapacitates the city from fulfilling its full potential,” said Nidhal Taibah, a founding partner at the Saudi office of EHAF Consulting Engineers. “The new airport will make a huge difference.”\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2018/4051f0ec3c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2018-12-29T17:40:49+03:00",
+				"url": "https://blog.alomran.me/2018/12/29/saudi-infrastructure-gets.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/08/20/112240.html",
+				"title": "How Saudi Arabia Plans to Transform the Pilgrimage Experience",
+				"content_html": "<p>As part of the Saudi government plans to diversify the economy, the kingdom’s authorities hope to increase the number of visitors to the country, including Muslim pilgrims who come to see the holy sites in Mecca and Medina.</p>\n<p>While hajj is limited by the fact that it has to happen at a specific time and confined to a small geographic area, officials see a huge potential in umrah —known as the lesser pilgrimage— which can be performed any time of the year.</p>\n<p>The government’s Vision 2030 plan calls for increasing the number of umrah pilgrims from its current levels of 6.8 million annually to more than double that in 2020 and ultimately to 30 million by 2030.</p>\n<p>Achieving these numbers will require logistical upgrades (hardware) and many policy changes (software). The last few years saw expansion projects in Mecca, as well as building a new airport in Jeddah and a high-speed train connecting the holy sites. On the policy front, the government is working on several initiatives and plans under the umbrella of a new program that has not been made public yet.</p>\n<p><a href=\"https://www.ft.com/content/0b68f9f4-a135-11e8-85da-eeb7a9ce36e4\">My latest story</a> for the <em>Financial Times</em> shows that a wider use of technology is major part of these plans that, in addition to increasing the number of pilgrims, aim to enrich their experience and offer better services to visitors.</p>\n<p>One area where officials see potential for technology to make an impact is safety: How can you prevent deadly accidents like the stampede that left hundreds of pilgrims dead in 2015? Among the ideas being discussed is developing a system powered by artificial intelligence to fully control crowd management.</p>\n<p>“It will take years to develop but would solve the most difficult challenge because it will allow you to avoid human errors,” said a persona familiar with the matter. Another idea is to develop a driverless transport system in the congested zone around the Grand Mosque in Mecca, he added.</p>\n<p>The government is also working on an online platform to make umrah more accessible to individual Muslims who now find themselves forced to depend on tour operators in their countries and can only come as part of groups at specific times chosen by these companies. By removing the middleman, officials hope more visitors would be encouraged to make the trip any time they want.</p>\n<p>Finally, the government wants open up the market of hajj and umrah local tour operators to Saudi and foreign investors. This step is likely to be controversial as the business sector has been controlled by a <a href=\"http://www.haj.gov.sa/English/businesssector/pages/coordinationcommittee.aspx\">small band of Meccan families for hundreds of years</a>, but officials say disrupting this market would lead to better services and more choices for pilgrims.</p>\n<p>“The challenges are unique and you can’t compare them with anything that exists. There are many problems but it’s a huge opportunity for innovation,” the person briefed on the plans said.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "As part of the Saudi government plans to diversify the economy, the kingdom’s authorities hope to increase the number of visitors to the country, including Muslim pilgrims who come to see the holy sites in Mecca and Medina.\n\nWhile hajj is limited by the fact that it has to happen at a specific time and confined to a small geographic area, officials see a huge potential in umrah —known as the lesser pilgrimage— which can be performed any time of the year.\n\nThe government’s Vision 2030 plan calls for increasing the number of umrah pilgrims from its current levels of 6.8 million annually to more than double that in 2020 and ultimately to 30 million by 2030.\n\nAchieving these numbers will require logistical upgrades (hardware) and many policy changes (software). The last few years saw expansion projects in Mecca, as well as building a new airport in Jeddah and a high-speed train connecting the holy sites. On the policy front, the government is working on several initiatives and plans under the umbrella of a new program that has not been made public yet.\n\n[My latest story](https://www.ft.com/content/0b68f9f4-a135-11e8-85da-eeb7a9ce36e4) for the _Financial Times_ shows that a wider use of technology is major part of these plans that, in addition to increasing the number of pilgrims, aim to enrich their experience and offer better services to visitors. \n\nOne area where officials see potential for technology to make an impact is safety: How can you prevent deadly accidents like the stampede that left hundreds of pilgrims dead in 2015? Among the ideas being discussed is developing a system powered by artificial intelligence to fully control crowd management.\n\n“It will take years to develop but would solve the most difficult challenge because it will allow you to avoid human errors,” said a persona familiar with the matter. Another idea is to develop a driverless transport system in the congested zone around the Grand Mosque in Mecca, he added.\n\nThe government is also working on an online platform to make umrah more accessible to individual Muslims who now find themselves forced to depend on tour operators in their countries and can only come as part of groups at specific times chosen by these companies. By removing the middleman, officials hope more visitors would be encouraged to make the trip any time they want.\n\nFinally, the government wants open up the market of hajj and umrah local tour operators to Saudi and foreign investors. This step is likely to be controversial as the business sector has been controlled by a [small band of Meccan families for hundreds of years](http://www.haj.gov.sa/English/businesssector/pages/coordinationcommittee.aspx), but officials say disrupting this market would lead to better services and more choices for pilgrims.\n\n“The challenges are unique and you can’t compare them with anything that exists. There are many problems but it’s a huge opportunity for innovation,” the person briefed on the plans said.\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2018/0a7c0a8d10.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-08-20T14:22:40+03:00",
+				"url": "https://blog.alomran.me/2018/08/20/112240.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/05/15/saudi-arabias-football.html",
+				
+				"content_html": "<p>Saudi Arabia’s football federation has banned referee Fahad al-Mirdasi for life over match fixing just few weeks before he was expected to appear in the 2018 World Cup in Russia.</p>\n<p>SAFF <a href=\"https://twitter.com/saudiFF/status/996507652615229441\">said</a> Mirdasi confessed to offering to fix the King’s Cup final that took place last Saturday in Jeddah and asked FIFA to hand a global ban to the referee and remove him from the upcoming tournament.</p>\n<p>At 32, Mirdasi was seen as one of the most promising prospects for refereeing in the kingdom and Asia. He officiated in last year’s Confederations Cup in Russia as well as the 2016 Olympics in Rio.</p>\n<p>The federation said Mirdasi sent WhatsApp messages to a top official from Ittihad club seeking payment to help them win against al-Faisaly in the final match. English referee Mark Clattenburg, who was appointed Head of Refereeing at SAFF last year, replaced Mirdasi in officiating the game which ended with victory for Ittihad.</p>\n",
+				"content_text": "Saudi Arabia’s football federation has banned referee Fahad al-Mirdasi for life over match fixing just few weeks before he was expected to appear in the 2018 World Cup in Russia.\n\nSAFF [said](https://twitter.com/saudiFF/status/996507652615229441) Mirdasi confessed to offering to fix the King’s Cup final that took place last Saturday in Jeddah and asked FIFA to hand a global ban to the referee and remove him from the upcoming tournament.\n\nAt 32, Mirdasi was seen as one of the most promising prospects for refereeing in the kingdom and Asia. He officiated in last year’s Confederations Cup in Russia as well as the 2016 Olympics in Rio.\n\nThe federation said Mirdasi sent WhatsApp messages to a top official from Ittihad club seeking payment to help them win against al-Faisaly in the final match. English referee Mark Clattenburg, who was appointed Head of Refereeing at SAFF last year, replaced Mirdasi in officiating the game which ended with victory for Ittihad.\n",
+				"date_published": "2018-05-16T01:26:08+03:00",
+				"url": "https://blog.alomran.me/2018/05/16/saudi-arabias-football.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/05/11/i-shared-some.html",
+				
+				"content_html": "<p>I shared some thoughts on Saudi Arabia’s chanes at the World Cup with <a href=\"https://twitter.com/jeffdmarcus\">Jeffrey Marcus</a> for his <a href=\"https://mailchi.mp/4fee4003e2c8/world-cup-banter-russia-saudi-arabia\">newsletter</a>. Expect more on that here as the tournament approaches in the coming weeks.</p>\n",
+				"content_text": "I shared some thoughts on Saudi Arabia’s chanes at the World Cup with [Jeffrey Marcus](https://twitter.com/jeffdmarcus) for his [newsletter](https://mailchi.mp/4fee4003e2c8/world-cup-banter-russia-saudi-arabia). Expect more on that here as the tournament approaches in the coming weeks.\n",
+				"date_published": "2018-05-11T20:17:58+03:00",
+				"url": "https://blog.alomran.me/2018/05/11/i-shared-some.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/05/02/back-to-blogging.html",
+				"title": "Back to Blogging Ways",
+				"content_html": "<p>My first serious attempt to write online was through blogging, and that’s how many people have come to know me. My original blog <a href=\"https://saudijeans.org\">Saudi Jeans</a>, launched in 2004, was one of the first in the region and remained active until I moved to New York for graduate school.</p>\n<p>This new blog, however, is not a revival of the old one as doing that would cause a conflict with my current job as a reporter for the <em>Financial Times</em>. Instead, a good way to think about this site is to view it as a companion to <a href=\"https://www.ft.com/stream/7bc8fbd5-3ea9-3987-8da2-781a45d5b8c6\">my reporting work</a> for FT.</p>\n<p>In some cases that will mean <a href=\"http://blog.alomran.me/2018/05/02/the-financial-times.html\">providing additional context</a> to stories I’ve written, including <a href=\"http://blog.alomran.me/2018/04/25/unemployment-rate-among.html\">stuff that didn’t make it to publication</a> either for editing or space reasons. In other cases I will seek to <a href=\"http://blog.alomran.me/2018/04/22/saudi-police-said.html\">link to related stories</a> and <a href=\"http://blog.alomran.me/2018/04/27/middle-east-monitor.html\">highlight some issues</a> that probably don’t merit writing a full news story but still worth more than a tweet. Many journalists (and non-journalists) do a similar thing these days using Twitter threads, but I just find that format clunky and inelegant.</p>\n<p>Now I’m not sure how frequently I will be posting stuff here, but I hope I can do that regularly enough to get back into the habit of blogging, and I hope that you might find some value in it. Cheers!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My first serious attempt to write online was through blogging, and that’s how many people have come to know me. My original blog [Saudi Jeans](https://saudijeans.org), launched in 2004, was one of the first in the region and remained active until I moved to New York for graduate school.\n\nThis new blog, however, is not a revival of the old one as doing that would cause a conflict with my current job as a reporter for the *Financial Times*. Instead, a good way to think about this site is to view it as a companion to [my reporting work](https://www.ft.com/stream/7bc8fbd5-3ea9-3987-8da2-781a45d5b8c6) for FT.\n\nIn some cases that will mean [providing additional context](http://blog.alomran.me/2018/05/02/the-financial-times.html) to stories I’ve written, including [stuff that didn’t make it to publication](http://blog.alomran.me/2018/04/25/unemployment-rate-among.html) either for editing or space reasons. In other cases I will seek to [link to related stories](http://blog.alomran.me/2018/04/22/saudi-police-said.html) and [highlight some issues](http://blog.alomran.me/2018/04/27/middle-east-monitor.html) that probably don’t merit writing a full news story but still worth more than a tweet. Many journalists (and non-journalists) do a similar thing these days using Twitter threads, but I just find that format clunky and inelegant.\n\nNow I’m not sure how frequently I will be posting stuff here, but I hope I can do that regularly enough to get back into the habit of blogging, and I hope that you might find some value in it. Cheers!\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2018/83b924f6a1.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-05-02T22:37:05+03:00",
+				"url": "https://blog.alomran.me/2018/05/02/back-to-blogging.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/29/mike-pompeo-visited.html",
+				
+				"content_html": "<p>Mike Pompeo visited Saudi Arabia on Sunday during his first foreign trip just few hours after he was confirmed as US Secretary of State. As he arrived in Riyadh, the <a href=\"https://www.nytimes.com/2018/04/28/world/middleeast/mike-pompeo-saudi-arabia-qatar-blockade.html\">message</a> conveyed to the traveling press with him was simple and stern: the kingdom must end its dispute with Qatar in order to form a united front against Iran in the Gulf.</p>\n<p>But as he stood next to his Saudi counterpart Adel al-Jubeir at the royal terminal of King Khalid International Airport, Pompeo used a softer tone and ended his remarks by saying “Gulf unity is necessary and we need to achieve it” without elaborating on the issue. The two officials did not take any questions and the US top diplomat soon boarded his plane <a href=\"https://apnews.com/55d418c10256428eb5fb6e25ddd5ab6e\">heading to Israel</a>.</p>\n<p>It remains unclear how much pressure the US is planning or willing to apply on their Gulf allies to end the rift. “We are hopeful that they will, in their own way, figure out how to remove the dispute between them,” Pompeo <a href=\"https://www.reuters.com/article/us-mideast-usa-pompeo-saudi/us-secretary-of-state-pompeo-stresses-need-for-gulf-unity-idUSKBN1I0096\">told reporters after leaving Riyadh</a>. A proposed GCC summit in Camp David has been pushed from April to September as the Trump administration shifted its focus to the talks with North Korea.</p>\n",
+				"content_text": "Mike Pompeo visited Saudi Arabia on Sunday during his first foreign trip just few hours after he was confirmed as US Secretary of State. As he arrived in Riyadh, the [message](https://www.nytimes.com/2018/04/28/world/middleeast/mike-pompeo-saudi-arabia-qatar-blockade.html) conveyed to the traveling press with him was simple and stern: the kingdom must end its dispute with Qatar in order to form a united front against Iran in the Gulf.\n\nBut as he stood next to his Saudi counterpart Adel al-Jubeir at the royal terminal of King Khalid International Airport, Pompeo used a softer tone and ended his remarks by saying “Gulf unity is necessary and we need to achieve it” without elaborating on the issue. The two officials did not take any questions and the US top diplomat soon boarded his plane [heading to Israel](https://apnews.com/55d418c10256428eb5fb6e25ddd5ab6e).\n\nIt remains unclear how much pressure the US is planning or willing to apply on their Gulf allies to end the rift. “We are hopeful that they will, in their own way, figure out how to remove the dispute between them,” Pompeo [told reporters after leaving Riyadh](https://www.reuters.com/article/us-mideast-usa-pompeo-saudi/us-secretary-of-state-pompeo-stresses-need-for-gulf-unity-idUSKBN1I0096). A proposed GCC summit in Camp David has been pushed from April to September as the Trump administration shifted its focus to the talks with North Korea. \n",
+				"date_published": "2018-04-29T23:24:40+03:00",
+				"url": "https://blog.alomran.me/2018/04/29/mike-pompeo-visited.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/27/middle-east-monitor.html",
+				
+				"content_html": "<p>Middle East Monitor (MEMO) on Wednesday published a <a href=\"https://www.middleeastmonitor.com/20180425-saudi-arabia-arrests-nearly-one-million-people-in-four-days/\">news item</a> saying that Saudi authorities have arrested nearly one million people in four days over the last week. The London-based website attributed that to Saudi daily Okaz. Arresting that number of people in a few days seems impossible, no matter how efficient Saudi security forces are.  So what’s happening here?</p>\n<p>In March 2017, Saudi authorities announced a <a href=\"http://www.arabnews.com/node/1071511/saudi-arabia\">grace period of 90 days</a> for undocumented foreign workers to correct their status or face deportation. That amnesty was later extended by another 30 days and ended by July 25, 2017.</p>\n<p>As the <a href=\"https://www.reuters.com/article/us-saudi-labour-amnesty/amnesty-over-illegal-expatriates-await-saudi-crackdown-idUSKBN1AO1J4\">amnesty ended</a>, security forces launched a campaign called “A Nation Without Violators” to track violators of residence, employment and border-security systems. The government has been releasing monthly updates on the outcomes of that campaign.</p>\n<p>The <a href=\"http://www.spa.gov.sa/1757162\">latest update</a>, published today, talks about more than one million violators. But the language in these updates can be confusing, which probably explains why MEMO and other sources misreported the situation.</p>\n<p>The word “arrest” is probably inaccurate to describe the situation. A better way to put it is to say authorities have <em>dealt with more than one million cases</em> since the beginning of the campaign last August. Some of the cases were fined, others were referred to their diplomatic missions and the rest were deported.</p>\n<p>It is unclear how many undocumented workers live in the kingdom, but a member of the Shura Council last year <a href=\"http://www.alhayat.com/article/850652/\">called for measures to deport 5 million people</a> living illegally in the country. Such calls have gained momentum in recent months as <a href=\"https://www.ft.com/content/df579534-47c3-11e8-8ae9-4b5ddcca99b3\">unemployment rate among Saudis continues to rise</a>, fuelling anti-foreign sentiments.</p>\n",
+				"content_text": "Middle East Monitor (MEMO) on Wednesday published a [news item](https://www.middleeastmonitor.com/20180425-saudi-arabia-arrests-nearly-one-million-people-in-four-days/) saying that Saudi authorities have arrested nearly one million people in four days over the last week. The London-based website attributed that to Saudi daily Okaz. Arresting that number of people in a few days seems impossible, no matter how efficient Saudi security forces are.  So what’s happening here? \n\nIn March 2017, Saudi authorities announced a [grace period of 90 days](http://www.arabnews.com/node/1071511/saudi-arabia) for undocumented foreign workers to correct their status or face deportation. That amnesty was later extended by another 30 days and ended by July 25, 2017.\n\nAs the [amnesty ended](https://www.reuters.com/article/us-saudi-labour-amnesty/amnesty-over-illegal-expatriates-await-saudi-crackdown-idUSKBN1AO1J4), security forces launched a campaign called “A Nation Without Violators” to track violators of residence, employment and border-security systems. The government has been releasing monthly updates on the outcomes of that campaign.\n\nThe [latest update](http://www.spa.gov.sa/1757162), published today, talks about more than one million violators. But the language in these updates can be confusing, which probably explains why MEMO and other sources misreported the situation.\n\nThe word “arrest” is probably inaccurate to describe the situation. A better way to put it is to say authorities have *dealt with more than one million cases* since the beginning of the campaign last August. Some of the cases were fined, others were referred to their diplomatic missions and the rest were deported.\n\nIt is unclear how many undocumented workers live in the kingdom, but a member of the Shura Council last year [called for measures to deport 5 million people](http://www.alhayat.com/article/850652/) living illegally in the country. Such calls have gained momentum in recent months as [unemployment rate among Saudis continues to rise](https://www.ft.com/content/df579534-47c3-11e8-8ae9-4b5ddcca99b3), fuelling anti-foreign sentiments.\n",
+				"date_published": "2018-04-27T21:09:19+03:00",
+				"url": "https://blog.alomran.me/2018/04/27/middle-east-monitor.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/25/unemployment-rate-among.html",
+				
+				"content_html": "<p><a href=\"https://www.ft.com/content/df579534-47c3-11e8-8ae9-4b5ddcca99b3\">Unemployment rate among Saudi citizens</a> keeps rising despite government effort to ban foreigners from certain sectors and limiting work in them to locals. Worries by officials go beyond unemployment itself which is seen as a precursor for other serious issues, form fear of increasing crime rate to making young citizens more likely to be lured by extremist groups at a time when the country is aiming to offer a more moderate image with hopes to attract foreign investment and tourists.</p>\n",
+				"content_text": "[Unemployment rate among Saudi citizens](https://www.ft.com/content/df579534-47c3-11e8-8ae9-4b5ddcca99b3) keeps rising despite government effort to ban foreigners from certain sectors and limiting work in them to locals. Worries by officials go beyond unemployment itself which is seen as a precursor for other serious issues, form fear of increasing crime rate to making young citizens more likely to be lured by extremist groups at a time when the country is aiming to offer a more moderate image with hopes to attract foreign investment and tourists.\n",
+				"date_published": "2018-04-25T13:22:18+03:00",
+				"url": "https://blog.alomran.me/2018/04/25/unemployment-rate-among.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/21/saudi-police-said.html",
+				
+				"content_html": "<p>Saudi police said security forces shot down an unauthorized toy drone in the Khozama district in the capital Riyadh. The police said officers at the area checkpoint dealt with the situation “according to their orders and instructions in this regard” and an investigation is underway.</p>\n<p>The <a href=\"http://www.spa.gov.sa/1754865\">statement</a> came hours after social media users started circulating videos that appeared to show heavy gunfire in the upscale (and usually quiet) district that has many royal palaces, including the king’s palace. The videos were soon followed by tweets claiming that a coup was taking place, some of them <a href=\"https://twitter.com/joshledermanAP/status/987791893894443008\">falsely attributed</a> to the Associated Press.</p>\n<p>One of these tweets that were forwarded to me claimed that “Royal Saudi Land Forces (KSA) Lieutenant General Allukas Nepils is leading the military push to oust King Salman.” Anyone who knows Saudi Arabia or speaks Arabic would easily detect that the name mentioned there does not sound real.</p>\n<p>Others raised questions about the official statement because the gunfire in the videos sounded too intense if the target was a toy drone as police said, but I think it should not be surprising that a security checkpoint might overreact to a drone near the royal palace. Journalist Danny Gold <a href=\"https://twitter.com/DGisSERIOUS/status/987809997504598017\">said</a> he was with Iraqi troops when they were trying to shoot down an ISIS drone and “the pace and amount of fire in the video i just saw sounds consistent to what i witnessed.”</p>\n<p>Reuters later reported that the king was spending time at his farm in Diriya and was <a href=\"https://www.reuters.com/article/us-saudi-security-king/saudi-king-was-not-in-palace-during-drone-incident-saudi-official-idUSKBN1HS0QE\">not at the palace</a> during the incident.</p>\n",
+				"content_text": "Saudi police said security forces shot down an unauthorized toy drone in the Khozama district in the capital Riyadh. The police said officers at the area checkpoint dealt with the situation “according to their orders and instructions in this regard” and an investigation is underway.\n\nThe [statement](http://www.spa.gov.sa/1754865) came hours after social media users started circulating videos that appeared to show heavy gunfire in the upscale (and usually quiet) district that has many royal palaces, including the king’s palace. The videos were soon followed by tweets claiming that a coup was taking place, some of them [falsely attributed](https://twitter.com/joshledermanAP/status/987791893894443008) to the Associated Press.\n\nOne of these tweets that were forwarded to me claimed that “Royal Saudi Land Forces (KSA) Lieutenant General Allukas Nepils is leading the military push to oust King Salman.” Anyone who knows Saudi Arabia or speaks Arabic would easily detect that the name mentioned there does not sound real.\n\nOthers raised questions about the official statement because the gunfire in the videos sounded too intense if the target was a toy drone as police said, but I think it should not be surprising that a security checkpoint might overreact to a drone near the royal palace. Journalist Danny Gold [said](https://twitter.com/DGisSERIOUS/status/987809997504598017) he was with Iraqi troops when they were trying to shoot down an ISIS drone and “the pace and amount of fire in the video i just saw sounds consistent to what i witnessed.”\n\nReuters later reported that the king was spending time at his farm in Diriya and was [not at the palace](https://www.reuters.com/article/us-saudi-security-king/saudi-king-was-not-in-palace-during-drone-incident-saudi-official-idUSKBN1HS0QE) during the incident.\n",
+				"date_published": "2018-04-22T01:40:49+03:00",
+				"url": "https://blog.alomran.me/2018/04/22/saudi-police-said.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/19/wakanda-will-no.html",
+				"title": "Wakanda Will No Longer Watch From the Shadows",
+				"content_html": "<p>AMC premiered “Black Panther” last night for a VIP audience in Riyadh, heralding the return of cinema to Saudi Arabia after a ban that lasted for more than three decades. The company announced that they will started selling tickets to the public the next day, much earlier than previously expected.</p>\n<p>The venue for the screening was a converted theater at the conference center in King Abdullah Financial District. The rest of the project remains unfinished after years of constructions and delays. AMC said they will remove the elegant Italian leather seats from the theater and replace them with reclining black seats.</p>\n<p>The opening felt a bit rushed, like several other projects launched recently in the kingdom, but the invited guests were excited to be there. The theater has become half empty before the end of the movie, a sign that many in the audience have probably already watched it in Dubai, Manama or other places.</p>\n<p>Selecting a movie about a crown prince trying to transform a rich kingdom carried a clear symbolism but real life seldom resembles the movies. It is usually the other way around.</p>\n",
+				"content_text": "AMC premiered “Black Panther” last night for a VIP audience in Riyadh, heralding the return of cinema to Saudi Arabia after a ban that lasted for more than three decades. The company announced that they will started selling tickets to the public the next day, much earlier than previously expected.\n\nThe venue for the screening was a converted theater at the conference center in King Abdullah Financial District. The rest of the project remains unfinished after years of constructions and delays. AMC said they will remove the elegant Italian leather seats from the theater and replace them with reclining black seats.\n\nThe opening felt a bit rushed, like several other projects launched recently in the kingdom, but the invited guests were excited to be there. The theater has become half empty before the end of the movie, a sign that many in the audience have probably already watched it in Dubai, Manama or other places.\n\nSelecting a movie about a crown prince trying to transform a rich kingdom carried a clear symbolism but real life seldom resembles the movies. It is usually the other way around.\n",
+				"date_published": "2018-04-20T00:29:21+03:00",
+				"url": "https://blog.alomran.me/2018/04/20/wakanda-will-no.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/18/from-wikipedia-the.html",
+				
+				"content_html": "<p>From Wikipedia: The <a href=\"https://en.wikipedia.org/wiki/Eyebrow_flash\">eyebrow flash</a> is an unconscious social signal, wherein a person, wishing to approach another whom they recognize and are preparing for social contact (such as a greeting), raises their eyebrows for approximately one-fifth of a second.</p>\n",
+				"content_text": "From Wikipedia: The [eyebrow flash](https://en.wikipedia.org/wiki/Eyebrow_flash) is an unconscious social signal, wherein a person, wishing to approach another whom they recognize and are preparing for social contact (such as a greeting), raises their eyebrows for approximately one-fifth of a second.\n",
+				"date_published": "2018-04-19T01:45:03+03:00",
+				"url": "https://blog.alomran.me/2018/04/19/from-wikipedia-the.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/17/one-of-the.html",
+				
+				"content_html": "<p>“One of the most exciting parts of Arab Fashion Week Riyadh, the first official fashion week hosted in Saudi Arabia, was the <a href=\"https://www.nytimes.com/2018/04/17/fashion/saudi-arabias-female-designers-to-know.html\">sheer amount of Saudi girl power</a> on display. It was an all-woman, all-the-time event&hellip;”</p>\n",
+				"content_text": "“One of the most exciting parts of Arab Fashion Week Riyadh, the first official fashion week hosted in Saudi Arabia, was the [sheer amount of Saudi girl power](https://www.nytimes.com/2018/04/17/fashion/saudi-arabias-female-designers-to-know.html) on display. It was an all-woman, all-the-time event...”\n",
+				"date_published": "2018-04-18T00:22:31+03:00",
+				"url": "https://blog.alomran.me/2018/04/18/one-of-the.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/17/foreign-ministry-told.html",
+				
+				"content_html": "<p>Foreign ministry told journalists to come for a press conference at 1pm. Around noon they sent a message saying it was postponed until 2pm. The presser didn’t actually start until 5:30pm.</p>\n",
+				"content_text": "Foreign ministry told journalists to come for a press conference at 1pm. Around noon they sent a message saying it was postponed until 2pm. The presser didn’t actually start until 5:30pm.\n",
+				"date_published": "2018-04-17T23:45:19+03:00",
+				"url": "https://blog.alomran.me/2018/04/17/foreign-ministry-told.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/16/saudi-arabia-establisheshttpwwwspagovsa.html",
+				
+				"content_html": "<p>Saudi Arabia <a href=\"http://www.spa.gov.sa/1752893\">establishes</a> a college for cyber security and artificial intelligence. The new college will be named after Crown Prince Mohammed bin Salman after a proposal from Saud al-Qahtani, a close adviser to the prince.</p>\n",
+				"content_text": "Saudi Arabia [establishes](http://www.spa.gov.sa/1752893) a college for cyber security and artificial intelligence. The new college will be named after Crown Prince Mohammed bin Salman after a proposal from Saud al-Qahtani, a close adviser to the prince.\n",
+				"date_published": "2018-04-16T20:03:06+03:00",
+				"url": "https://blog.alomran.me/2018/04/16/saudi-arabia-establisheshttpwwwspagovsa.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/04/16/i-should-use.html",
+				
+				"content_html": "<p>I should use this account more often.</p>\n",
+				"content_text": "I should use this account more often.\n",
+				"date_published": "2018-04-16T15:20:13+03:00",
+				"url": "https://blog.alomran.me/2018/04/16/i-should-use.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/01/07/on-the-challenges.html",
+				
+				"content_html": "<p>On the challenges of <a href=\"https://www.ft.com/content/7d93028a-f367-11e7-8715-e94187b3017e\">Saudi economic reform</a>: “The difficulty lies in the fact that there is no textbook to guide you. You have always to rethink it to measure. There is no guidebook. There are so many uncertainties, but there are basics you have to watch, like the level of spending and middle class income.”</p>\n",
+				"content_text": "On the challenges of [Saudi economic reform](https://www.ft.com/content/7d93028a-f367-11e7-8715-e94187b3017e): “The difficulty lies in the fact that there is no textbook to guide you. You have always to rethink it to measure. There is no guidebook. There are so many uncertainties, but there are basics you have to watch, like the level of spending and middle class income.”\n",
+				"date_published": "2018-01-07T17:49:06+03:00",
+				"url": "https://blog.alomran.me/2018/01/07/on-the-challenges.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/01/07/saudi-foreign-minister.html",
+				
+				"content_html": "<p>Saudi foreign minister says kingdom’s position on the Palestinian cause is “unflinching” <a href=\"http://www.spa.gov.sa/1706038\">www.spa.gov.sa/1706038</a></p>\n",
+				"content_text": "Saudi foreign minister says kingdom’s position on the Palestinian cause is “unflinching” [www.spa.gov.sa/1706038](http://www.spa.gov.sa/1706038)\n",
+				"date_published": "2018-01-07T12:33:34+03:00",
+				"url": "https://blog.alomran.me/2018/01/07/saudi-foreign-minister.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/01/06/barcelona-just-broke.html",
+				
+				"content_html": "<p>Barcelona just broke their own transfer record for a player they don’t really need <a href=\"https://www.theringer.com/2018/1/6/16856622/soccer-transfers-philippe-coutinho-fc-barcelona-liverpool-jurgen-klopp\">www.theringer.com/2018/1/6/&hellip;</a></p>\n",
+				"content_text": "Barcelona just broke their own transfer record for a player they don’t really need [www.theringer.com/2018/1/6/...](https://www.theringer.com/2018/1/6/16856622/soccer-transfers-philippe-coutinho-fc-barcelona-liverpool-jurgen-klopp)\n",
+				"date_published": "2018-01-06T22:56:50+03:00",
+				"url": "https://blog.alomran.me/2018/01/06/barcelona-just-broke.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/01/06/chrome-is-turning.html",
+				
+				"content_html": "<p>Chrome is turning into the new Internet Explorer 6 <a href=\"https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards\">www.theverge.com/2018/1/4/&hellip;</a></p>\n",
+				"content_text": "Chrome is turning into the new Internet Explorer 6 [www.theverge.com/2018/1/4/...](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards)\n",
+				"date_published": "2018-01-06T22:39:55+03:00",
+				"url": "https://blog.alomran.me/2018/01/06/chrome-is-turning.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/01/06/saudi-attorneygeneral-confirms.html",
+				
+				"content_html": "<p>Saudi attorney-general confirms the arrest of 11 princes <a href=\"http://www.alriyadh.com/1652437\">www.alriyadh.com/1652437</a></p>\n",
+				"content_text": "Saudi attorney-general confirms the arrest of 11 princes [www.alriyadh.com/1652437](http://www.alriyadh.com/1652437)\n",
+				"date_published": "2018-01-06T22:32:42+03:00",
+				"url": "https://blog.alomran.me/2018/01/06/saudi-attorneygeneral-confirms.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2018/01/06/twitter-says-it.html",
+				
+				"content_html": "<p>Twitter says it does not block or remove controversial tweets of world leaders because it would hide important information people should see and debate <a href=\"https://blog.twitter.com/official/en_us/topics/company/2017/world-leaders-and-twitter.html\">blog.twitter.com/official/&hellip;</a></p>\n",
+				"content_text": "Twitter says it does not block or remove controversial tweets of world leaders because it would hide important information people should see and debate [blog.twitter.com/official/...](https://blog.twitter.com/official/en_us/topics/company/2017/world-leaders-and-twitter.html)\n",
+				"date_published": "2018-01-06T22:20:50+03:00",
+				"url": "https://blog.alomran.me/2018/01/06/twitter-says-it.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2017/05/25/white-house-officials.html",
+				
+				"content_html": "<p>White House officials explain <a href=\"https://www.axios.com/axios-am-2421367400.html\">how they manage Trump to</a> limit the damage caused by his tweets <img src=\"https://pbs.twimg.com/media/DArJyh8XsAEnWR6.jpg\" alt=\"Axios\"></p>\n",
+				"content_text": "White House officials explain [how they manage Trump to](https://www.axios.com/axios-am-2421367400.html) limit the damage caused by his tweets ![Axios](https://pbs.twimg.com/media/DArJyh8XsAEnWR6.jpg)\n",
+				"date_published": "2017-05-25T16:18:44+03:00",
+				"url": "https://blog.alomran.me/2017/05/25/white-house-officials.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2017/05/24/taiwan-to-allow.html",
+				
+				"content_html": "<p><a href=\"http://on.ft.com/2rRZk2T\">Taiwan to allow gay marriage</a> in first for Asia.</p>\n",
+				"content_text": "[Taiwan to allow gay marriage](http://on.ft.com/2rRZk2T) in first for Asia.\n",
+				"date_published": "2017-05-25T01:27:17+03:00",
+				"url": "https://blog.alomran.me/2017/05/24/taiwan-to-allow.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2017/05/19/it-seems-that.html",
+				
+				"content_html": "<p>It seems that <a href=\"https://techcrunch.com/2017/05/19/twitter-is-down-for-some-users/\">Twitter is down</a> for some users</p>\n",
+				"content_text": "It seems that [Twitter is down](https://techcrunch.com/2017/05/19/twitter-is-down-for-some-users/) for some users\n",
+				"date_published": "2017-05-19T16:43:53+03:00",
+				"url": "https://blog.alomran.me/2017/05/19/it-seems-that.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2017/05/06/i-do-share.html",
+				
+				"content_html": "<p>I do share <a href=\"http://scripting.com/2017/05/05/iWantMyOldBlogBack.html\">Dave Winer’s nostalgia</a> for the old blog format. He was an inspiration when I started blogging in 2004 and I followed his format as I redesigned my blog <a href=\"http://saudijeans.org\">Saudi Jeans</a> several times during that period. Good times.</p>\n",
+				"content_text": "I do share [Dave Winer’s nostalgia](http://scripting.com/2017/05/05/iWantMyOldBlogBack.html) for the old blog format. He was an inspiration when I started blogging in 2004 and I followed his format as I redesigned my blog [Saudi Jeans](http://saudijeans.org) several times during that period. Good times.\n",
+				"date_published": "2017-05-06T20:15:08+03:00",
+				"url": "https://blog.alomran.me/2017/05/06/i-do-share.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2017/04/30/the-government-of.html",
+				
+				"content_html": "<p>The government of Dubai <a href=\"http://www.dubaifont.com\">releases a new font</a> in collaboration with Microsoft. Available for both commerical and non-commercial use for free.</p>\n",
+				"content_text": "The government of Dubai [releases a new font](http://www.dubaifont.com) in collaboration with Microsoft. Available for both commerical and non-commercial use for free. \n",
+				"date_published": "2017-04-30T16:27:24+03:00",
+				"url": "https://blog.alomran.me/2017/04/30/the-government-of.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2017/04/29/sheikh-ahmad-al.html",
+				
+				"content_html": "<p>Sheikh Ahmad Al Fahad Al Sabah, a member of Kuwait’s ruling family, has <a href=\"https://apnews.com/c71206f69e1e436881f55c081019f1d9/FIFA,-Olympic-official-Sheik-Ahmad-denies-bribery-allegation\">denied claims made in a U.S. federal court that he paid six-figure bribes</a> to FIFA voters.</p>\n",
+				"content_text": "Sheikh Ahmad Al Fahad Al Sabah, a member of Kuwait’s ruling family, has [denied claims made in a U.S. federal court that he paid six-figure bribes](https://apnews.com/c71206f69e1e436881f55c081019f1d9/FIFA,-Olympic-official-Sheik-Ahmad-denies-bribery-allegation) to FIFA voters.\n",
+				"date_published": "2017-04-30T00:00:12+03:00",
+				"url": "https://blog.alomran.me/2017/04/29/sheikh-ahmad-al.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2017/04/29/testing-the-new.html",
+				
+				"content_html": "<p>Testing the <em>new</em> site. I’m <a href=\"http://twitter.com/ahmed\">@ahmed</a> by the way.</p>\n",
+				"content_text": "Testing the _new_ site. I’m [@ahmed](http://twitter.com/ahmed) by the way.\n",
+				"date_published": "2017-04-29T19:39:02+03:00",
+				"url": "https://blog.alomran.me/2017/04/29/testing-the-new.html"
 			}
 	]
 }
