@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/11/17/saudi-coffee-chain.html",
+				
+				"content_html": "<p>Saudi coffee chain Kyan <a href=\"https://maps.app.goo.gl/tEcaanFYqncQgUvDA\">opens a branch</a>.. in the Bronx, under a franchise agreement.</p>\n",
+				"content_text": "Saudi coffee chain Kyan [opens a branch](https://maps.app.goo.gl/tEcaanFYqncQgUvDA).. in the Bronx, under a franchise agreement.\n",
+				"date_published": "2024-11-17T11:38:30+03:00",
+				"url": "https://blog.alomran.me/2024/11/17/saudi-coffee-chain.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/11/13/ft-exclusive-former.html",
+				
+				"content_html": "<p>🚨 FT Exclusive: Former CEO of PIF-backed developer Roshn is <a href=\"https://www.ft.com/content/beed76da-1509-4c60-9e7d-1a8e9ddf8d17\">suing the company for more than $100 million</a> in unpaid bonuses and other compensation.</p>\n",
+				"content_text": "🚨 FT Exclusive: Former CEO of PIF-backed developer Roshn is [suing the company for more than $100 million](https://www.ft.com/content/beed76da-1509-4c60-9e7d-1a8e9ddf8d17) in unpaid bonuses and other compensation.\n",
+				"date_published": "2024-11-13T11:11:16+03:00",
+				"url": "https://blog.alomran.me/2024/11/13/ft-exclusive-former.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/11/12/heres-my-latest.html",
+				
+				"content_html": "<p>Here’s my latest story: Gulf states <a href=\"https://on.ft.com/3CpOiKW\">wary of return</a> to Donald Trump’s “maximum pressure” against Iran</p>\n",
+				"content_text": "Here’s my latest story: Gulf states [wary of return](https://on.ft.com/3CpOiKW) to Donald Trump’s “maximum pressure” against Iran\n",
+				"date_published": "2024-11-12T14:16:00+03:00",
+				"url": "https://blog.alomran.me/2024/11/12/heres-my-latest.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/11/10/two-saudi-officers.html",
 				
 				"content_html": "<p>Two Saudi officers killed and one wounded in <a href=\"https://www.ft.com/content/33c70efd-dcdc-440c-9a2c-cc1c654fff70\">“lone wolf” attack</a> at training camp for Yemeni government forces in Hadhramaut.</p>\n",
