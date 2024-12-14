@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2024/12/14/saudi-foreign-minister.html",
+				
+				"content_html": "<p>🚨 Saudi foreign minister Prince Faisal bin Farhan arrives in Aqaba for Syria talks</p>\n",
+				"content_text": "🚨 Saudi foreign minister Prince Faisal bin Farhan arrives in Aqaba for Syria talks\n",
+				"date_published": "2024-12-14T13:32:54+03:00",
+				"url": "https://blog.alomran.me/2024/12/14/saudi-foreign-minister.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/14/bashar-alassad-didnt.html",
+				
+				"content_html": "<p>Bashar al-Assad didn’t even inform his younger brother, Maher, commander of the Army’s elite 4th Armoured Division, about <a href=\"https://www.reuters.com/world/middle-east/assads-final-hours-syria-deception-despair-flight-2024-12-13/\">his exit plan</a>. Maher flew a helicopter to Iraq and then to Russia.</p>\n",
+				"content_text": "Bashar al-Assad didn’t even inform his younger brother, Maher, commander of the Army’s elite 4th Armoured Division, about [his exit plan](https://www.reuters.com/world/middle-east/assads-final-hours-syria-deception-despair-flight-2024-12-13/). Maher flew a helicopter to Iraq and then to Russia.\n",
+				"date_published": "2024-12-14T09:44:24+03:00",
+				"url": "https://blog.alomran.me/2024/12/14/bashar-alassad-didnt.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/11/fifa-confirms-saudi.html",
+				
+				"content_html": "<p>🚨 Fifa <a href=\"https://www.ft.com/content/fcc69d86-967d-43bd-ab8c-e8fc3da15198\">confirms</a> Saudi Arabia as host of 2034 World Cup.</p>\n",
+				"content_text": "🚨 Fifa [confirms](https://www.ft.com/content/fcc69d86-967d-43bd-ab8c-e8fc3da15198) Saudi Arabia as host of 2034 World Cup.\n",
+				"date_published": "2024-12-11T19:40:13+03:00",
+				"url": "https://blog.alomran.me/2024/12/11/fifa-confirms-saudi.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/10/books-that-help.html",
+				
+				"content_html": "<p>12 books that <a href=\"https://www.ft.com/content/d889cf00-89e7-45a5-bb0d-1104f4198ccd\">help explain what is happening</a> in Syria.</p>\n",
+				"content_text": "12 books that [help explain what is happening](https://www.ft.com/content/d889cf00-89e7-45a5-bb0d-1104f4198ccd) in Syria.\n",
+				"date_published": "2024-12-10T23:08:42+03:00",
+				"url": "https://blog.alomran.me/2024/12/10/books-that-help.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/09/samsung-pay-launches.html",
+				
+				"content_html": "<p>Samsung Pay launches in Saudi Arabia after receiving <a href=\"https://www.sama.gov.sa/en-us/news/pages/news-1060.aspx\">approval from the central bank</a>. Google Pay still not available in the kingdom.</p>\n",
+				"content_text": "Samsung Pay launches in Saudi Arabia after receiving [approval from the central bank](https://www.sama.gov.sa/en-us/news/pages/news-1060.aspx). Google Pay still not available in the kingdom.\n",
+				"date_published": "2024-12-09T12:54:02+03:00",
+				"url": "https://blog.alomran.me/2024/12/09/samsung-pay-launches.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/09/apple-to-finally.html",
+				
+				"content_html": "<p>Apple to finally sell directly to consumers in Saudi Arabia online next year, will <a href=\"https://www.apple.com/newsroom/2024/12/apple-announces-apple-retail-expansion-in-the-kingdom-of-saudi-arabia/\">open its first physical retail store in the kingdom</a> in 2026.</p>\n",
+				"content_text": "Apple to finally sell directly to consumers in Saudi Arabia online next year, will [open its first physical retail store in the kingdom](https://www.apple.com/newsroom/2024/12/apple-announces-apple-retail-expansion-in-the-kingdom-of-saudi-arabia/) in 2026.\n",
+				"date_published": "2024-12-09T11:45:37+03:00",
+				"url": "https://blog.alomran.me/2024/12/09/apple-to-finally.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/12/09/front-pages-of.html",
 				
 				"content_html": "<p>Front pages of Saudi newspapers today leading with the fall of the Assad regime in Syria.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Front pages of Saudi newspapers today leading with the fall of the Assad regime in Syria.\n\n<img src=\"uploads/2024/scr-20241209-khes.jpeg\" width=\"410\" height=\"600\" alt=\"\"><img src=\"uploads/2024/scr-20241209-khjm.png\" width=\"410\" height=\"600\" alt=\"\"><img src=\"uploads/2024/scr-20241209-khpg.png\" width=\"341\" height=\"600\" alt=\"\">\n",
+				"content_text": "Front pages of Saudi newspapers today leading with the fall of the Assad regime in Syria.\n\n<img src=\"https://cdn.uploads.micro.blog/1217/2024/scr-20241209-khes.jpeg\" width=\"410\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1217/2024/scr-20241209-khjm.png\" width=\"410\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/1217/2024/scr-20241209-khpg.png\" width=\"341\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-09T11:25:09+03:00",
 				"url": "https://blog.alomran.me/2024/12/09/front-pages-of.html"
 			},
