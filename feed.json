@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2025/01/02/my-latest-syrian-delegation-visits.html",
+				
+				"content_html": "<p>🚨 My latest: Syrian delegation visits Saudi Arabia for <a href=\"https://www.ft.com/content/67f6c4e1-d607-407d-9748-bfdf18d979cb\">first foreign trip</a> since ousting of Bashar al-Assad.</p>\n",
+				"content_text": "🚨 My latest: Syrian delegation visits Saudi Arabia for [first foreign trip](https://www.ft.com/content/67f6c4e1-d607-407d-9748-bfdf18d979cb) since ousting of Bashar al-Assad.\n",
+				"date_published": "2025-01-02T12:39:36+03:00",
+				"url": "https://blog.alomran.me/2025/01/02/my-latest-syrian-delegation-visits.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/24/afghanistan-welcomes-saudi-arabias-decision.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Afghanistan welcomes Saudi Arabia’s decision to <a href=\"https://apnews.com/article/afghanistan-taliban-saudi-embassy-reopening-538b176dd0e7e6f91753b2c0e34a6078\">reopen its embassy in Kabul</a>.</p>\n",
+				"date_published": "2024-12-24T10:18:35+03:00",
+				"url": "https://blog.alomran.me/2024/12/24/afghanistan-welcomes-saudi-arabias-decision.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/22/qatar-will-stop.html",
+				
+				"content_html": "<p>Qatar will <a href=\"https://www.ft.com/content/2260c21b-f5f4-4ea9-b176-ba1b38c8471c\">stop EU gas sales</a> if fined under due diligence law.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Qatar will [stop EU gas sales](https://www.ft.com/content/2260c21b-f5f4-4ea9-b176-ba1b38c8471c) if fined under due diligence law.\n\n<img src=\"uploads/2024/scr-20241222-lkmv.png\" width=\"600\" height=\"456\" alt=\"\">\n",
+				"date_published": "2024-12-22T13:02:43+03:00",
+				"url": "https://blog.alomran.me/2024/12/22/qatar-will-stop.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2024/12/19/saudi-arabia-to.html",
+				
+				"content_html": "<p>Saudi Arabia to <a href=\"https://apnews.com/article/concacaf-gold-cup-saudi-arabia-3f493e7ae223b12a3d49524bd877f7e6\">play in 2025 and 2027 CONCACAF Gold Cups</a>. Qatar did the same before hosting the World Cup.</p>\n",
+				"content_text": "Saudi Arabia to [play in 2025 and 2027 CONCACAF Gold Cups](https://apnews.com/article/concacaf-gold-cup-saudi-arabia-3f493e7ae223b12a3d49524bd877f7e6). Qatar did the same before hosting the World Cup.\n",
+				"date_published": "2024-12-19T22:54:45+03:00",
+				"url": "https://blog.alomran.me/2024/12/19/saudi-arabia-to.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2024/12/19/us-health-care.html",
 				
 				"content_html": "<p>US health care is “a system in which <a href=\"https://paulkrugman.substack.com/p/health-insurance-is-a-racket\">taxpayers bear the cost of major medical care</a>, but this taxpayer money flows through private companies that take a cut, spend a lot on administration, and do their best to deny care to people who need it.”</p>\n",
