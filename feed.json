@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2025/02/02/my-latest-syrias-new-leader.html",
+				
+				"content_html": "<p>🚨 My latest — Syria’s new leader <a href=\"https://www.ft.com/content/1b83ed26-0a85-4c87-a5c8-b834b22c3c2d\">visits Saudi Arabia</a> in sign of regional power shift.</p>\n",
+				"content_text": "🚨 My latest — Syria’s new leader [visits Saudi Arabia](https://www.ft.com/content/1b83ed26-0a85-4c87-a5c8-b834b22c3c2d) in sign of regional power shift.\n",
+				"date_published": "2025-02-02T18:06:45+03:00",
+				"url": "https://blog.alomran.me/2025/02/02/my-latest-syrias-new-leader.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2025/01/23/my-latest-saudi-arabia-aims.html",
+				
+				"content_html": "<p>My latest: Saudi Arabia aims to <a href=\"https://www.ft.com/content/cf49bdec-7e54-46ab-a707-f788d5dfd7c7\">invest $600 billion in the US</a>, crown prince tells Trump during congratulatory phone call.</p>\n",
+				"content_text": "My latest: Saudi Arabia aims to [invest $600 billion in the US](https://www.ft.com/content/cf49bdec-7e54-46ab-a707-f788d5dfd7c7), crown prince tells Trump during congratulatory phone call.\n",
+				"date_published": "2025-01-23T12:42:47+03:00",
+				"url": "https://blog.alomran.me/2025/01/23/my-latest-saudi-arabia-aims.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2025/01/19/my-latest-story-saud-housing.html",
 				
 				"content_html": "<p>🚨 My latest story: Saud housing minister acknowledges that <a href=\"https://www.ft.com/content/4cc29603-ec42-4a09-84e0-cc2b1a9aaf7b\">soaring property prices in Riyadh</a> have become a “concern” for the government, but says more supply is coming into the market to address the issue.</p>\n",
