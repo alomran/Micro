@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2026/01/11/my-latest-story-saudi-arabia.html",
+				
+				"content_html": "<p>🎢 My latest story: Saudi Arabia opens <a href=\"https://www.ft.com/content/4975c12a-b122-4e96-bf2a-7384fcc40668\">$1 billion Six Flags theme park in Qiddiya</a> as the kingdom pushes ahead with megaprojects.</p>\n",
+				"content_text": "🎢 My latest story: Saudi Arabia opens [$1 billion Six Flags theme park in Qiddiya](https://www.ft.com/content/4975c12a-b122-4e96-bf2a-7384fcc40668) as the kingdom pushes ahead with megaprojects.\n",
+				"date_published": "2026-01-11T14:05:02+03:00",
+				"url": "https://blog.alomran.me/2026/01/11/my-latest-story-saudi-arabia.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2026/01/08/saudi-arabia-accuses-uae-of.html",
+				
+				"content_html": "<p>🚨 Saudi Arabia <a href=\"https://www.ft.com/content/9df69cf4-20c7-4370-ac6d-76cd9c2c5fe6\">accuses</a> UAE of smuggling out Yemeni separatist leader.</p>\n",
+				"content_text": "🚨 Saudi Arabia [accuses](https://www.ft.com/content/9df69cf4-20c7-4370-ac6d-76cd9c2c5fe6) UAE of smuggling out Yemeni separatist leader.\n",
+				"date_published": "2026-01-08T11:29:57+03:00",
+				"url": "https://blog.alomran.me/2026/01/08/saudi-arabia-accuses-uae-of.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2026/01/07/saudi-arabia-launches-new-air.html",
 				
 				"content_html": "<p>🚨 Saudi Arabia launches new air strikes on southern Yemen as <a href=\"https://www.ft.com/content/251ff23f-81bc-4703-b0cc-149425e2c6fb\">STC leader fails to travel to Riyadh</a> for talks aimed at ending the crisis.</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://ahmed.micro.blog/2025/12/25/saudi-arabia-calls-moves-by.html",
 				
 				"content_html": "<p>🚨 Saudi Arabia calls moves by Yemen’s STC “unjustified escalation”, urges the group to withdraw forces from seized provinces —foreign ministry statement.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🚨 Saudi Arabia calls moves by Yemen’s STC “unjustified escalation”, urges the group to withdraw forces from seized provinces —foreign ministry statement.\n\n<img src=\"uploads/2025/g8-vnwawaaa1z1m.jpg\" width=\"220\" height=\"600\" alt=\"\">\n",
+				"content_text": "🚨 Saudi Arabia calls moves by Yemen’s STC “unjustified escalation”, urges the group to withdraw forces from seized provinces —foreign ministry statement.\n\n<img src=\"https://eu.uploads.micro.blog/1217/2025/g8-vnwawaaa1z1m.jpg\" width=\"220\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-25T09:56:07+03:00",
 				"url": "https://blog.alomran.me/2025/12/25/saudi-arabia-calls-moves-by.html"
 			},
