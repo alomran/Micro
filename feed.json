@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2026/10/09/saudi-citizens-killed-in-houthi.html",
+				
+				"content_html": "<p>🚨 3 Saudi citizens killed in <a href=\"https://www.ft.com/content/8a2354d5-08a0-4ba2-9768-d1d81353f4b5\">Houthi attacks targeting Riyadh airport</a>, including a pilot for flag carrier Saudia.</p>\n",
+				"content_text": "🚨 3 Saudi citizens killed in [Houthi attacks targeting Riyadh airport](https://www.ft.com/content/8a2354d5-08a0-4ba2-9768-d1d81353f4b5), including a pilot for flag carrier Saudia.\n",
+				"date_published": "2026-10-09T12:38:50+03:00",
+				"url": "https://blog.alomran.me/2026/10/09/saudi-citizens-killed-in-houthi.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2026/10/08/houthi-attacks-on-saudi-airports.html",
+				
+				"content_html": "<p>Houthi <a href=\"https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db\">attacks on Saudi airports</a> in Riyadh and Abha kill three people, dozens injured.</p>\n",
+				"content_text": "Houthi [attacks on Saudi airports](https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db) in Riyadh and Abha kill three people, dozens injured.\n",
+				"date_published": "2026-10-08T13:30:12+03:00",
+				"url": "https://blog.alomran.me/2026/10/08/houthi-attacks-on-saudi-airports.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2026/10/07/houthis-target-aden-and-riyadh.html",
 				
 				"content_html": "<p><a href=\"https://www.ft.com/content/6a2dc960-c9fd-4795-b5ea-78f9bb77309d\">Houthis target Aden and Riyadh</a> in new missile barrage as UN says more than 200,000 people displaced since fighting started in Yemen.</p>\n",
