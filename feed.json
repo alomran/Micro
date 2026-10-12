@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://ahmed.micro.blog/2026/10/12/my-latest-story-saudi-vision.html",
+				
+				"content_html": "<p>My latest story: Saudi Vision 2030 wants to transform Riyadh into the region’s main finance and events hub. <a href=\"https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8\">Houthi attacks on the city’s airport</a> strike at the heart of that plan.</p>\n",
+				"content_text": "My latest story: Saudi Vision 2030 wants to transform Riyadh into the region’s main finance and events hub. [Houthi attacks on the city’s airport](https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8) strike at the heart of that plan.\n",
+				"date_published": "2026-10-12T22:00:51+03:00",
+				"url": "https://blog.alomran.me/2026/10/12/my-latest-story-saudi-vision.html"
+			},
+			{
+				"id": "http://ahmed.micro.blog/2026/10/10/top-executives-are-racing-to.html",
+				
+				"content_html": "<p>✈️ Top executives are racing to determine whether they could still <a href=\"https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03\">travel to major Saudi-hosted events</a> this month as Houthis intensify attacks on Riyadh airport.</p>\n",
+				"content_text": "✈️ Top executives are racing to determine whether they could still [travel to major Saudi-hosted events](https://www.ft.com/content/e29fd05b-9e71-474c-906e-c3fd45dfaa03) this month as Houthis intensify attacks on Riyadh airport.\n",
+				"date_published": "2026-10-10T10:50:48+03:00",
+				"url": "https://blog.alomran.me/2026/10/10/top-executives-are-racing-to.html"
+			},
+			{
 				"id": "http://ahmed.micro.blog/2026/10/09/saudi-citizens-killed-in-houthi.html",
 				
 				"content_html": "<p>🚨 3 Saudi citizens killed in <a href=\"https://www.ft.com/content/8a2354d5-08a0-4ba2-9768-d1d81353f4b5\">Houthi attacks targeting Riyadh airport</a>, including a pilot for flag carrier Saudia.</p>\n",
